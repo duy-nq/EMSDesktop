@@ -8,6 +8,9 @@ using System.Text;
 using System.Windows.Forms;
 using System.Threading;
 using DevExpress.XtraSplashScreen;
+using DevExpress.XtraEditors.TextEditController.Win32;
+using System.IO;
+using Newtonsoft.Json;
 
 namespace EMSDesktop
 {
@@ -45,6 +48,15 @@ namespace EMSDesktop
         private void simpleButton3_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            string filePath = @"D:\Project\EMS Desktop\EMSDesktop\EMSDesktop\datasets\test_01.json";
+
+            string json = File.ReadAllText(filePath);
+
+            RootObject RootObject = JsonConvert.DeserializeObject<RootObject>(json);
         }
     }
 }
