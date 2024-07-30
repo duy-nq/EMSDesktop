@@ -11,6 +11,8 @@ using DevExpress.XtraSplashScreen;
 using DevExpress.XtraEditors.TextEditController.Win32;
 using System.IO;
 using Newtonsoft.Json;
+using System.Net.Http;
+using System.Threading.Tasks;
 
 namespace EMSDesktop
 {
@@ -25,32 +27,83 @@ namespace EMSDesktop
             InitializeComponent();
         }
 
-        private void LoadData()
+        private string FormatOptions()
         {
-            Random random = new Random();
+            string options = OptionA.Text + " || ";
 
-            int index = random.Next(num);
-            TxtPrediction.Text = answers[index];
+            if (OptionB.Text != "")
+            {
+                options += OptionB.Text + " || ";
+            }
 
-            Thread.Sleep(3000);
+            if (OptionC.Text != "")
+            {
+                options += OptionC.Text + " || ";
+            }
+
+            if (OptionD.Text != "")
+            {
+                options += OptionD.Text;
+            }
+
+            return options;
+        }
+
+        private void FormatRespone(string responseBody)
+        {
+            Response response = JsonConvert.DeserializeObject<Response>(responseBody);
+
+            TxtPrediction.Text = response.choice;
+            memoEdit2.Text = response.explanation;
+        }
+
+        private async Task LoadData()
+        {
+            string url = "http://localhost:8000/qna/ask";
+
+            Request re = new Request(memoEdit1.Text, FormatOptions());
+
+            string jsonData = JsonConvert.SerializeObject(re);
+
+            using (HttpClient client = new HttpClient())
+            {
+                try
+                {
+                    HttpContent content = new StringContent(jsonData, Encoding.UTF8, "application/json");
+
+                    HttpResponseMessage response = await client.PostAsync(url, content);
+
+                    response.EnsureSuccessStatusCode();
+
+                    string responseBody = await response.Content.ReadAsStringAsync();
+
+                    var jsonResult = JsonConvert.DeserializeObject(responseBody).ToString();
+
+                    FormatRespone(jsonResult);
+                }
+                catch (HttpRequestException e)
+                {
+                    Console.WriteLine($"Request error: {e.Message}");
+                }
+            }
         }
 
         private void simpleButton2_Click(object sender, EventArgs e)
         {
-            memoEdit1.Text = OptionA.Text = OptionB.Text = OptionC.Text = OptionD.Text = "";
+            memoEdit1.Text = memoEdit2.Text = OptionA.Text = OptionB.Text = OptionC.Text = OptionD.Text = "";
             TxtAnswer.Text = "#";
             TxtPrediction.Text = "#";
 
             labelControl1.BackColor = Color.Transparent;
         }
 
-        private void simpleButton1_Click(object sender, EventArgs e)
+        private async void simpleButton1_Click(object sender, EventArgs e)
         {
             SplashScreenManager.ShowForm(this, typeof(WaitForm1), true, true, false);
 
             try
             {                
-                LoadData();
+                await LoadData();
 
                 if (TxtPrediction.Text == TxtAnswer.Text)
                 {
@@ -71,6 +124,7 @@ namespace EMSDesktop
         {
             TxtPrediction.Text = "#";
             labelControl1.BackColor = Color.Transparent;
+            memoEdit2.Text = "";
             
             Random random = new Random();
 
@@ -103,6 +157,16 @@ namespace EMSDesktop
             string json = File.ReadAllText(filePath);
 
             RootObject = JsonConvert.DeserializeObject<RootObject>(json);
+        }
+
+        private void hyperlinkLabelControl2_HyperlinkClick(object sender, DevExpress.Utils.HyperlinkClickEventArgs e)
+        {
+            System.Diagnostics.Process.Start(e.Link);
+        }
+
+        private void hyperlinkLabelControl1_HyperlinkClick(object sender, DevExpress.Utils.HyperlinkClickEventArgs e)
+        {
+            System.Diagnostics.Process.Start(e.Link);
         }
     }
 }
