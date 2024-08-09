@@ -1,0 +1,77 @@
+{
+    "__count__": 30,
+    "data": [
+        {
+            "id": "1167",
+            "question": "Số “bảy mươi mốt nghìn chín trăm ba mươi lăm” viết là:",
+            "choices": [
+                "A. 17 935",
+                "B. 71 935",
+                "C. 71 395",
+                "D. 17 595"
+            ],
+            "explanation": "Số “bảy mươi mốt nghìn chín trăm ba mươi lăm” viết là: 71 935.",
+            "answer": "B. 71 935"
+        },
+        {
+            "id": "1209",
+            "question": "Số 405 đọc là:",
+            "choices": [
+                "A. Bốn không năm",
+                "B. Bốn trăm linh lăm",
+                "C. Bốn trăm linh năm",
+                "D. Bốn trăm không năm"
+            ],
+            "explanation": "Số 405 đọc là: Bốn trăm linh năm",
+            "answer": "C. Bốn trăm linh năm"
+        },
+        {
+            "id": "1213",
+            "question": "Số 504 đọc là:",
+            "choices": [
+                "A. Năm trăm không bốn",
+                "B. Năm trăm tư",
+                "C. Năm trăm bốn",
+                "D. Năm trăm linh tư"
+            ],
+            "explanation": "Số 504 đọc là: Năm trăm linh tư",
+            "answer": "D. Năm trăm linh tư"
+        },
+        {
+            "id": "1225",
+            "question": "Số 7,305 đọc là:",
+            "choices": [
+                "A. Bảy phẩy ba trăm linh năm",
+                "B. Bảy phẩy ba mươi năm",
+                "C. Bảy phẩy ba trăm linh lăm",
+                "D. Bảy phẩy ba mươi lăm"
+            ],
+            "explanation": "Số 7,305 đọc là: Bảy phẩy ba trăm linh năm.",
+            "answer": "A. Bảy phẩy ba trăm linh năm"
+        },
+        {
+            "id": "1301",
+            "question": "Số gồm 2 chục nghìn, 3 nghìn, 8 trăm, 5 chục và hai đơn vị viết là:",
+            "choices": [
+                "A. 32 852",
+                "B. 23 582",
+                "C. 32 258",
+                "D. 23 852"
+            ],
+            "explanation": "Số gồm 2 chục nghìn, 3 nghìn, 8 trăm, 5 chục và hai đơn vị viết là: 23 852.",
+            "answer": "D. 23 852"
+        },
+        {
+            "id": "1314",
+            "question": "Số gồm 5 trăm và 5 đơn vị đọc là:",
+            "choices": [
+                "A. năm mươi lăm",
+                "B. năm trăm linh năm",
+                "C. năm trăm năm",
+                "D. năm trăm linh lăm"
+            ],
+            "explanation": "Số gồm 5 trăm và 5 đơn vị đọc là: Năm trăm linh năm",
+            "answer": "B. năm trăm linh năm"
+        }
+    ]
+}

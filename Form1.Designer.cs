@@ -48,6 +48,8 @@
             this.panelControl5 = new DevExpress.XtraEditors.PanelControl();
             this.panelControl1 = new DevExpress.XtraEditors.PanelControl();
             this.panelControl6 = new DevExpress.XtraEditors.PanelControl();
+            this.hyperlinkLabelControl2 = new DevExpress.XtraEditors.HyperlinkLabelControl();
+            this.hyperlinkLabelControl1 = new DevExpress.XtraEditors.HyperlinkLabelControl();
             this.memoEdit2 = new DevExpress.XtraEditors.MemoEdit();
             this.labelControl4 = new DevExpress.XtraEditors.LabelControl();
             this.panelControl7 = new DevExpress.XtraEditors.PanelControl();
@@ -56,8 +58,7 @@
             this.panelControl8 = new DevExpress.XtraEditors.PanelControl();
             this.TxtPrediction = new DevExpress.XtraEditors.TextEdit();
             this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
-            this.hyperlinkLabelControl1 = new DevExpress.XtraEditors.HyperlinkLabelControl();
-            this.hyperlinkLabelControl2 = new DevExpress.XtraEditors.HyperlinkLabelControl();
+            this.comboBoxEdit1 = new DevExpress.XtraEditors.ComboBoxEdit();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl2)).BeginInit();
             this.panelControl2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.radioGroup1.Properties)).BeginInit();
@@ -86,6 +87,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.panelControl8)).BeginInit();
             this.panelControl8.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.TxtPrediction.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.comboBoxEdit1.Properties)).BeginInit();
             this.SuspendLayout();
             // 
             // panelControl2
@@ -137,6 +139,7 @@
             // 
             this.panelControl3.Appearance.Options.UseTextOptions = true;
             this.panelControl3.Appearance.TextOptions.VAlignment = DevExpress.Utils.VertAlignment.Center;
+            this.panelControl3.Controls.Add(this.comboBoxEdit1);
             this.panelControl3.Controls.Add(this.simpleButton3);
             this.panelControl3.Controls.Add(this.simpleButton2);
             this.panelControl3.Controls.Add(this.simpleButton1);
@@ -351,6 +354,27 @@
             this.panelControl6.Size = new System.Drawing.Size(566, 628);
             this.panelControl6.TabIndex = 4;
             // 
+            // hyperlinkLabelControl2
+            // 
+            this.hyperlinkLabelControl2.LinkBehavior = System.Windows.Forms.LinkBehavior.HoverUnderline;
+            this.hyperlinkLabelControl2.Location = new System.Drawing.Point(521, 574);
+            this.hyperlinkLabelControl2.Name = "hyperlinkLabelControl2";
+            this.hyperlinkLabelControl2.Size = new System.Drawing.Size(41, 17);
+            this.hyperlinkLabelControl2.TabIndex = 10;
+            this.hyperlinkLabelControl2.Text = "<href=www.github.com/duy-nq>duy-nq</href>";
+            this.hyperlinkLabelControl2.HyperlinkClick += new DevExpress.Utils.HyperlinkClickEventHandler(this.hyperlinkLabelControl2_HyperlinkClick);
+            // 
+            // hyperlinkLabelControl1
+            // 
+            this.hyperlinkLabelControl1.LinkBehavior = System.Windows.Forms.LinkBehavior.HoverUnderline;
+            this.hyperlinkLabelControl1.Location = new System.Drawing.Point(311, 597);
+            this.hyperlinkLabelControl1.Name = "hyperlinkLabelControl1";
+            this.hyperlinkLabelControl1.Size = new System.Drawing.Size(252, 17);
+            this.hyperlinkLabelControl1.TabIndex = 9;
+            this.hyperlinkLabelControl1.Text = "<href=https://portal.ptit.edu.vn/>Học viện Công Nghệ Bưu chính Viễn Thông\r\n</href" +
+    ">\r\n";
+            this.hyperlinkLabelControl1.HyperlinkClick += new DevExpress.Utils.HyperlinkClickEventHandler(this.hyperlinkLabelControl1_HyperlinkClick);
+            // 
             // memoEdit2
             // 
             this.memoEdit2.Dock = System.Windows.Forms.DockStyle.Top;
@@ -483,26 +507,25 @@
             this.labelControl1.TabIndex = 3;
             this.labelControl1.Text = "Result";
             // 
-            // hyperlinkLabelControl1
+            // comboBoxEdit1
             // 
-            this.hyperlinkLabelControl1.LinkBehavior = System.Windows.Forms.LinkBehavior.HoverUnderline;
-            this.hyperlinkLabelControl1.Location = new System.Drawing.Point(311, 597);
-            this.hyperlinkLabelControl1.Name = "hyperlinkLabelControl1";
-            this.hyperlinkLabelControl1.Size = new System.Drawing.Size(252, 17);
-            this.hyperlinkLabelControl1.TabIndex = 9;
-            this.hyperlinkLabelControl1.Text = "<href=https://portal.ptit.edu.vn/>Học viện Công Nghệ Bưu chính Viễn Thông\r\n</href" +
-    ">\r\n";
-            this.hyperlinkLabelControl1.HyperlinkClick += new DevExpress.Utils.HyperlinkClickEventHandler(this.hyperlinkLabelControl1_HyperlinkClick);
-            // 
-            // hyperlinkLabelControl2
-            // 
-            this.hyperlinkLabelControl2.LinkBehavior = System.Windows.Forms.LinkBehavior.HoverUnderline;
-            this.hyperlinkLabelControl2.Location = new System.Drawing.Point(521, 574);
-            this.hyperlinkLabelControl2.Name = "hyperlinkLabelControl2";
-            this.hyperlinkLabelControl2.Size = new System.Drawing.Size(41, 17);
-            this.hyperlinkLabelControl2.TabIndex = 10;
-            this.hyperlinkLabelControl2.Text = "<href=www.github.com/duy-nq>duy-nq</href>";
-            this.hyperlinkLabelControl2.HyperlinkClick += new DevExpress.Utils.HyperlinkClickEventHandler(this.hyperlinkLabelControl2_HyperlinkClick);
+            this.comboBoxEdit1.EditValue = "test_01";
+            this.comboBoxEdit1.Location = new System.Drawing.Point(155, 565);
+            this.comboBoxEdit1.Name = "comboBoxEdit1";
+            this.comboBoxEdit1.Properties.Appearance.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.comboBoxEdit1.Properties.Appearance.Options.UseFont = true;
+            this.comboBoxEdit1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.comboBoxEdit1.Properties.Items.AddRange(new object[] {
+            "test_01",
+            "test_02",
+            "doc_viet",
+            "chuyen_doi",
+            "hinh_hoc"});
+            this.comboBoxEdit1.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.DisableTextEditor;
+            this.comboBoxEdit1.Size = new System.Drawing.Size(186, 46);
+            this.comboBoxEdit1.TabIndex = 13;
+            this.comboBoxEdit1.SelectedIndexChanged += new System.EventHandler(this.comboBoxEdit1_SelectedIndexChanged);
             // 
             // Form1
             // 
@@ -546,6 +569,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.panelControl8)).EndInit();
             this.panelControl8.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.TxtPrediction.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.comboBoxEdit1.Properties)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -579,6 +603,7 @@
         private DevExpress.XtraEditors.RadioGroup radioGroup1;
         private DevExpress.XtraEditors.HyperlinkLabelControl hyperlinkLabelControl2;
         private DevExpress.XtraEditors.HyperlinkLabelControl hyperlinkLabelControl1;
+        private DevExpress.XtraEditors.ComboBoxEdit comboBoxEdit1;
     }
 }
 

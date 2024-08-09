@@ -57,7 +57,7 @@ namespace EMSDesktop
             Console.WriteLine("Explanation: " + response.explanation + "end\n");
 
             TxtPrediction.Text = response.choice;
-            memoEdit2.Text = response.explanation;
+            memoEdit2.Text = response.explanation.Replace("\n", "\r\n");
         }
 
         private async Task LoadData()
@@ -176,6 +176,15 @@ namespace EMSDesktop
         private void hyperlinkLabelControl1_HyperlinkClick(object sender, DevExpress.Utils.HyperlinkClickEventArgs e)
         {
             System.Diagnostics.Process.Start(e.Link);
+        }
+
+        private void comboBoxEdit1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string filePath = @"D:\Project\EMS Desktop\EMSDesktop\EMSDesktop\datasets\" + comboBoxEdit1.Text + ".json";
+
+            string json = File.ReadAllText(filePath);
+
+            RootObject = JsonConvert.DeserializeObject<RootObject>(json);
         }
     }
 }

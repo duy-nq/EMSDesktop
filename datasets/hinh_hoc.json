@@ -1,0 +1,1188 @@
+{
+    "__count__": 25,
+    "data": [
+        {
+            "id": "1004",
+            "question": "Một tam giác có đáy bằng 15 cm và gấp 2,5 lần chiều cao tương ứng. Diện tích tam giác đó là:",
+            "choices": [
+                "A. 90 cm2",
+                "B. 37,5 cm2",
+                "C. 45 cm2",
+                "D. 18,75 cm2"
+            ],
+            "explanation": "Chiều cao của tam giác đó là: 15 : 2,5 = 6 (cm)\n Diện tích tam giác đó là: 15 ${\\times}$ 6 : 2 = 45 (cm2) \n Đáp số: 45 cm2",
+            "answer": "C. 45 cm2"
+        },
+        {
+            "id": "13",
+            "question": "Diện tích của hình tròn có đường kính d = 5dm là:",
+            "choices": [
+                "A. 78,5dm2",
+                "B. 196,25dm2",
+                "C. 7,85dm2",
+                "D. 19,625dm2"
+            ],
+            "explanation": "Bán kính hình tròn là: 5 : 2 = 2,5 (dm)Diện tích của hình tròn có đường kính d = 5dm là: 2,5 ${\\times}$ 2,5 ${\\times}$ 3,14 = 19,625 (dm2).",
+            "answer": "D. 19,625dm2"
+        },
+        {
+            "id": "14",
+            "question": "Diện tích xung quanh của hình hộp chữ nhật có chiều dài 1,1m, chiều rộng\n 0,5m và chiều cao 1m là:",
+            "choices": [
+                "A. 1,6m2",
+                "B. 3,2m2",
+                "C. 4,3m2",
+                "D. 3,75m2"
+            ],
+            "explanation": "Chu vi mặt đáy hình hộp chữ nhật:\n (1,1 + 0,5) ⨯ 2 = 3,2 (m)\n Diện tích xung quanh hình hộp chữ nhật:\n 3,2 ⨯1 = 3,2 (m2)",
+            "answer": "C. 4,3m2"
+        },
+        {
+            "id": "15",
+            "question": "Hình tròn có bán kính 0,5cm. Chu vi của hình tròn đó là:",
+            "choices": [
+                "A. 6,28cm",
+                "B. 3,14cm",
+                "C. 12,56cm",
+                "D. 1,57cm"
+            ],
+            "explanation": "Hình tròn có bán kính 0,5cm. Chu vi của hình tròn đó là: 2 ${\\times}$ 0,5 ${\\times}$ 3,14 = 3,14 (cm)",
+            "answer": "B. 3,14cm"
+        },
+        {
+            "id": "1518",
+            "question": "Tam giác ABC có diện tích 40 cm2. Chiều cao AH có độ dài 0,8 dm. Độ dài đáy BC của tam giác ABC là:",
+            "choices": [
+                "A. 5 cm",
+                "B. 10 cm",
+                "C.15 cm",
+                "D. 20 cm"
+            ],
+            "explanation": "Đổi: 0,8 dm = 8 cm. Độ dài đáy BC của tam giác ABC là: 2 ${\\times}$ 40 : 8 = 10 (cm)",
+            "answer": "B. 10 cm"
+        },
+        {
+            "id": "1531",
+            "question": "Thể tích của hình lập phương có cạnh bằng 3,5cm là:",
+            "choices": [
+                "A. 42,875cm3",
+                "B. 12,25cm3",
+                "C. 14cm3",
+                "D. 21cm3"
+            ],
+            "explanation": "Thể tích của hình lập phương là :\n 3,5 x 3,5 x 3,5 = 42,875 ( cm³ )\n Đáp số : 42,875 cm³.",
+            "answer": "A. 42,875cm3"
+        },
+        {
+            "id": "1650",
+            "question": "Trên bản đồ có ghi tỉ lệ 1 : 1 000, có chiều dài một bồn hoa hình bình hành đo được 12 cm. Chiều dài bồn hoa hình bình hành đó trên thực tế dài số xăng ti mét là:",
+            "choices": [
+                "A. 12",
+                "B. 120",
+                "C. 1 200",
+                "D. 12 000"
+            ],
+            "explanation": "Chiều dài bồn hoa hình bình hành đó trên thực tế dài số xăng ${-}$ ti ${-}$ mét là: 12 ${\\times}$ 1 000 = 12 000 (cm)",
+            "answer": "D. 12 000"
+        },
+        {
+            "id": "201",
+            "question": "An có nhiều con tem hình vuông cạnh 2 cm. An muốn xếp các con tem đó lên tấm bìa hình chữ nhật dài 10 cm và rộng 6 cm. Số con tem An có thể xếp lên tấm bìa đó là:",
+            "choices": [
+                "A. 15 con tem",
+                "B. 16 con tem",
+                "C. 14 con tem",
+                "D. 13 con tem"
+            ],
+            "explanation": "Diện tích tấm bìa hình chữ nhật là:10 ${\\times}$ 6 = 60 (cm2)\n Diện tích con tem hình vuông là: 2 ${\\times}$ 2 = 4 (cm2)\n Số con tem An có thể xếp lên tấm bìa là:60 : 4 = 15 (con tem)\n Đáp số: 15 con tem",
+            "answer": "A. 15 con tem"
+        },
+        {
+            "id": "244",
+            "question": "Bố Minh có một ao cá dạng hình vuông có cạnh dài 65 m. Bố dự định trồng một số cây vải xung quanh ao, các cây sẽ cách đều 5m. Vậy số cây bưởi bố Minh có thể trồng nhiều nhất là:",
+            "choices": [
+                "A. 13 cây",
+                "B. 26 cây",
+                "C. 52 cây",
+                "D. 65 cây"
+            ],
+            "explanation": "Phương pháp\n - Tìm chu vi cái ao hình vuông = Độ dài cạnh x 4\n - Tìm số cây có thể trồng nhiều nhất = Chu vi hình vuông : khoảng cách giữa hai cây\n Cách giải\n Chu vi cái ao hình vuông là\n 65 x 4 = 260 (m)\n Số cây bưởi bố Minh có thể trồng nhiều nhất là\n 260 : 5 = 52 (cây)\n Đáp số: 52 cây",
+            "answer": "C. 52 cây"
+        },
+        {
+            "id": "250",
+            "question": "Các góc nội tiếp chắn nửa đường tròn là:",
+            "choices": [
+                "A. Góc nhọn ;",
+                "B. Góc tù ;",
+                "C. Góc bẹt ;",
+                "D. Góc vuông ;"
+            ],
+            "answer": "D. Góc vuông ;"
+        },
+        {
+            "id": "278",
+            "question": "Cạnh hình vuông có chu vi 96cm là",
+            "choices": [
+                "A. 48 cm",
+                "B. 8 cm",
+                "C. 6 cm",
+                "D. 24 cm"
+            ],
+            "answer": "D. 24 cm"
+        },
+        {
+            "id": "285",
+            "question": "Chiều dài của hình chữ nhật có diện tích tích bằng diện tích của hình vuông có cạnh bằng 32cm và chiều rộng bằng 16cm là:",
+            "choices": [
+                "A. 64cm",
+                "B. 72cm",
+                "C. 78cm",
+                "D. 80cm"
+            ],
+            "answer": "A. 64cm"
+        },
+        {
+            "id": "328",
+            "question": "Cho tứ diện ABCD. I và J theo thứ tự là trung điểm của AD vàAC, G là trọng tâm tam giácBCD. Giao tuyến của hai mặt phẳng \\left(GIJ\\right) và \\left(BCD\\right) là đường thẳng:",
+            "choices": [
+                "A. qua I và song song vớiAB",
+                "B. qua J và song song với BD",
+                "C. qua G và song song với CD",
+                "D. qua G và song song với BC"
+            ],
+            "answer": "C. qua G và song song với CD"
+        },
+        {
+            "id": "329",
+            "question": "Cho tứ diện ABCD. M, N, O, Q lần lượt là trung điểm AC, BC, BD, AD. Tìm điều kiện để MNPQ là hình thoi.",
+            "choices": [
+                "A. AB = BC",
+                "B. BC = AD",
+                "C. AC = BD",
+                "D. AB = CD"
+            ],
+            "answer": "D. AB = CD"
+        },
+        {
+            "id": "368",
+            "question": "Chu vi của hình vuông là 28cm. Diện tích của hình vuông đó là bao nhiêu?",
+            "choices": [
+                "A. 14 cm2",
+                "B. 32 cm2",
+                "C. 56 cm2",
+                "D. 49 cm2"
+            ],
+            "answer": "D. 49 cm2"
+        },
+        {
+            "id": "369",
+            "question": "Chu vi hình tròn có bán kính 4cm là:",
+            "choices": [
+                "A. 12,4cm",
+                "B. 25,12cm",
+                "C. 12,56cm",
+                "D. 50,24cm"
+            ],
+            "answer": "B. 25,12cm"
+        },
+        {
+            "id": "370",
+            "question": "Chu vi hình tròn có bán kính là 6 cm là",
+            "choices": [
+                "A. 18,84cm",
+                "B. 376,8 cm",
+                "C. 37,68cm2",
+                "D. 37,68cm"
+            ],
+            "answer": "D. 37,68cm"
+        },
+        {
+            "id": "371",
+            "question": "Chu vi hình tròn là 12,56 thì diện tích hình tròn là?",
+            "choices": [
+                "A. 6,28 cm2",
+                "B. 12,56 cm2",
+                "C. 3,14 cm2",
+                "D. 50,24 cm2"
+            ],
+            "answer": "B. 12,56 cm2"
+        },
+        {
+            "id": "372",
+            "question": "Chu vi hình vuông bằng 32 cm. Vậy diện tích hình vuông đó là:",
+            "choices": [
+                "A. 26 cm2",
+                "B. 60 cm2",
+                "C. 64 cm2",
+                "D. 16 cm2"
+            ],
+            "explanation": "Độ dài cạnh hình vuông là:32 : 4 = 8 (cm) Diện tích hình vuông là:8 ${\\times}$ 8 = 64 (cm2)\n Đáp số: 64 cm2",
+            "answer": "C. 64 cm2"
+        },
+        {
+            "id": "373",
+            "question": "Chu vi tam giác có độ dài ba cạnh lần lượt là 4m, 3m2dm và 36dm là:",
+            "choices": [
+                "A. 100dm",
+                "B. 110dm",
+                "C. 108dm",
+                "D. 120dm"
+            ],
+            "answer": "C. 108dm"
+        },
+        {
+            "id": "404",
+            "question": "Để lát nền một căn phòng, người ta đã dùng hết 600 viên gạch hình vuông có độ dài cạnh là 3dm. Hỏi phòng học đó có diện tích bao nhiêu mét vuông ?",
+            "choices": [
+                "A. 54m2 ...",
+                "B. 36m2 ...",
+                "C. 56m2 ...",
+                "D. 60m2 ..."
+            ],
+            "answer": "A. 54m2 ..."
+        },
+        {
+            "id": "405",
+            "question": "Để ốp thêm một mảng tường người ta dùng hết 5 viên gạch hình vuông, mỗi viên có độ dài 12cm. Diện tích mảng tường được ốp thêm là:",
+            "choices": [
+                "A. 710cm2",
+                "B. 160cm2",
+                "C. 720cm2",
+                "D. 700cm2"
+            ],
+            "answer": "C. 720cm2"
+        },
+        {
+            "id": "421",
+            "question": "Diện tích của hình chữ nhật có chiều dài 3dm và chiều rộng 17cm là:",
+            "choices": [
+                "A. 510cm2",
+                "B. 51cm2",
+                "C. 51dm2",
+                "D. 510dm2"
+            ],
+            "answer": "A. 510cm2"
+        },
+        {
+            "id": "422",
+            "question": "Diện tích của hình chữ nhật có chiều rộng bằng 14cm và chiều dài gấp 3 lần chiều rộng là:",
+            "choices": [
+                "A. 546cm2",
+                "B. 588cm2",
+                "C. 564cm2",
+                "D. 592cm2"
+            ],
+            "answer": "B. 588cm2"
+        },
+        {
+            "id": "423",
+            "question": "Diện tích của hình chữ nhật có chiều rộng bằng 4/5 chiều dài và chiều dài hơn chiều rộng 18cm là:",
+            "choices": [
+                "A. 60cm2",
+                "B. 70cm2",
+                "C. 80cm2",
+                "D. 90cm2"
+            ],
+            "answer": "C. 80cm2"
+        },
+        {
+            "id": "424",
+            "question": "Diện tích của hình chữ nhật có chu vi bằng 100cm và chiều dài bằng 3/2 lần chiều rộng là:",
+            "choices": [
+                "A. 3000cm2",
+                "B. 2400cm2",
+                "C. 1200cm2",
+                "D. 600cm2"
+            ],
+            "answer": "D. 600cm2"
+        },
+        {
+            "id": "425",
+            "question": "Diện tích của hình tam giác có chiều cao là 2,4 cm và độ dài đáy 5 cm là:",
+            "choices": [
+                "A. 6 cm2",
+                "B. 12 cm2",
+                "C. 18 cm2",
+                "D. 24 cm2"
+            ],
+            "explanation": "Diện tích tam giác đó là: (2,4 ${\\times}$ 5) : 2 = 6 (cm2)\n Đáp số: 6 cm2",
+            "answer": "A. 6 cm2"
+        },
+        {
+            "id": "426",
+            "question": "Diện tích của hình tròn có bán kính 10 cm là:",
+            "choices": [
+                "A. 3,14 cm2",
+                "B. 31,4 cm2",
+                "C. 314 cm2"
+            ],
+            "answer": "B. 31,4 cm2"
+        },
+        {
+            "id": "427",
+            "question": "Diện tích của hình tròn có bán kính r = 4dm là:",
+            "choices": [
+                "A. 25,16dm2",
+                "B. 25,14dm2",
+                "C. 50,24dm2",
+                "D. 25,12dm2"
+            ],
+            "explanation": "Diện tích của hình tròn có bán kính r = 4dm là: 4 ${\\times}$ 4 ${\\times}$ 3,14 = 50,24 (dm2).",
+            "answer": "C. 50,24dm2"
+        },
+        {
+            "id": "428",
+            "question": "Diện tích của hình tròn có bán kính r = 6cm là:",
+            "choices": [
+                "A. 113,4cm2",
+                "B. 113,04cm2",
+                "C. 18,84cm2",
+                "D. 13,04cm2"
+            ],
+            "explanation": "Diện tích của hình tròn có bán kính r = 6cm là: 6 ${\\times}$ 6 ${\\times}$ 3,14 = 113,04 (cm2).",
+            "answer": "B. 113,04cm2"
+        },
+        {
+            "id": "429",
+            "question": "Diện tích của hình tròn có đường kính 2cm là:",
+            "choices": [
+                "A. 3,14cm2",
+                "B. 12,56cm2",
+                "C. 6,28cm2",
+                "D. 25,12cm2"
+            ],
+            "answer": "A. 3,14cm2"
+        },
+        {
+            "id": "430",
+            "question": "Diện tích của hình tròn có đường kính 5cm là:",
+            "choices": [
+                "A. 15,7cm2",
+                "B. 19,625cm2",
+                "C. 87,135cm2",
+                "D. 78,5cm2"
+            ],
+            "explanation": "Bán kính hình tròn là: 5 : 2 = 2,5 (cm)\n Diện tích của hình tròn có đường kính 5cm là: 2,5 ${\\times}$ 2,5 ${\\times}$ 3,14 = 19,625 (cm2)",
+            "answer": "B. 19,625cm2"
+        },
+        {
+            "id": "431",
+            "question": "Diện tích của hình tròn có đường kính 6cm là:",
+            "choices": [
+                "A. 18,84cm2",
+                "B. 113,04cm2",
+                "C. 28,26cm2",
+                "D. 26,82cm2"
+            ],
+            "answer": "C. 28,26cm2"
+        },
+        {
+            "id": "432",
+            "question": "Diện tích của hình vuông có cạnh dài 9 cm là:",
+            "choices": [
+                "A. 64 cm2",
+                "B. 81 cm2",
+                "C. 36 cm2",
+                "D. 49 cm2"
+            ],
+            "explanation": "Diện tích của hình vuông có cạnh dài 9 cm là: 9 ${\\times}$ 9 = 81 (cm2)",
+            "answer": "B. 81 cm2"
+        },
+        {
+            "id": "433",
+            "question": "Diện tích của hình vuông có chu vi 24 cm là:",
+            "choices": [
+                "A. 96 cm2",
+                "B. 64 cm2",
+                "C. 36 cm2",
+                "D. 16 cm2"
+            ],
+            "answer": "C. 36 cm2"
+        },
+        {
+            "id": "434",
+            "question": "Diện tích của hình vuông có chu vi bằng 40dm là:",
+            "choices": [
+                "A. 1dm2",
+                "B. 1cm2",
+                "C. 100m2",
+                "D. 1m2"
+            ],
+            "answer": "D. 1m2"
+        },
+        {
+            "id": "435",
+            "question": "Diện tich của hình vuông có diện tích bằng diện tích của hình chữ nhật có chiều dài 15cm và chiều rộng 10cm là:",
+            "choices": [
+                "A. 150cm2",
+                "B. 140cm2",
+                "C. 120cm2",
+                "D. 100cm2"
+            ],
+            "answer": "A. 150cm2"
+        },
+        {
+            "id": "436",
+            "question": "Diện tích của một hình chữ nhật có chiều dài 12cm, chiều rộng 8cm là:",
+            "choices": [
+                "A. 20cm2",
+                "B. 40cm2",
+                "C. 48cm2",
+                "D. 96cm2"
+            ],
+            "answer": "D. 96cm2"
+        },
+        {
+            "id": "437",
+            "question": "Diện tích của một hình tam giác có độ dài cạnh đáy là 12,5 cm và chiều cao tương ứng là 3dm là:",
+            "choices": [
+                "A. 18,75 dm2",
+                "B. 18,75 cm2",
+                "C. 187,5 cm2",
+                "D. 187,5 dm2"
+            ],
+            "answer": "C. 187,5 cm2"
+        },
+        {
+            "id": "438",
+            "question": "Diện tích của một hình vuông có cạnh bằng 5cm là:",
+            "choices": [
+                "A. 25cm2",
+                "B. 20cm2",
+                "C. 45cm2",
+                "D. 16cm2"
+            ],
+            "answer": "A. 25cm2"
+        },
+        {
+            "id": "439",
+            "question": "Diện tích hình bình hành có cạnh đáy 8 dm, chiều cao 53 cm là:",
+            "choices": [
+                "A. 424 cm2",
+                "B. 524 dm2",
+                "C. 4 240 cm2",
+                "D. 4 420 cm2"
+            ],
+            "answer": "C. 4 240 cm2"
+        },
+        {
+            "id": "440",
+            "question": "Diện tích hình chữ nhật có chiều dài a = 4cm và chiều rộng b = 1,2cm là:",
+            "choices": [
+                "A. 4,08 cm²",
+                "B. 4,8 cm²",
+                "C. 48 cm²",
+                "D. 8,4 cm²"
+            ],
+            "answer": "B. 4,8 cm²"
+        },
+        {
+            "id": "441",
+            "question": "Diện tích hình tam giác có chiều cao 3/4 m và độ dài đáy 8/9 m là:",
+            "choices": [
+                "A. 1/3m2",
+                "B. 2/3m2",
+                "C. 59/36m2",
+                "D. 59/18m2"
+            ],
+            "answer": "A. 1/3m2"
+        },
+        {
+            "id": "442",
+            "question": "Diện tích hình tròn có bán kính r = 2 dm là:",
+            "choices": [
+                "A. 6,28 dm2",
+                "B. 12,56 dm2",
+                "C. 25,12 dm2",
+                "D. 50,24 dm2"
+            ],
+            "answer": "B. 12,56 dm2"
+        },
+        {
+            "id": "444",
+            "question": "Diện tích một hình bình hành là 1472 cm2. Tính chiều cao hình bình hành đó, biết độ dài tương ứng là 46cm.",
+            "choices": [
+                "A. 64cm",
+                "B. 35cm",
+                "C. 16cm",
+                "D. 32cm"
+            ],
+            "answer": "D. 32cm"
+        },
+        {
+            "id": "445",
+            "question": "Diện tích một hình vuông là 9 cm2. Hỏi chu vi hình vuông đó là bao nhiêu?",
+            "choices": [
+                "A. 3 cm",
+                "B. 12 cm",
+                "C. 4 cm",
+                "D. 36 cm"
+            ],
+            "explanation": "Ta thấy 3 ${\\times}$ 3 = 9. \n Nên độ dài cạnh hình vuông là 3 cm\n Chu vi hình vuông đó là: 3 ${\\times}$ 4 = 12 (cm)\n Đáp số: 12 cm",
+            "answer": "B. 12 cm"
+        },
+        {
+            "id": "446",
+            "question": "Diện tích tam giác có đáy 10 cm và chiều cao 1,2 dm là:",
+            "choices": [
+                "A. 60 cm2",
+                "B. 60 dm2",
+                "C. 6 dm2",
+                "D. 6 cm2"
+            ],
+            "explanation": "Đổi: 1,2 dm = 12 cmDiện tích tam giác đó là:10 ${\\times}$ 12 : 2 = 60 (cm2)\n Đáp số: 60 cm2",
+            "answer": "A. 60 cm2"
+        },
+        {
+            "id": "447",
+            "question": "Diện tích toàn phần của hình hộp chữ nhật có chiều dài 6cm, chiều cao 3cm và chiều rộng 4,5cm là:",
+            "choices": [
+                "A. 216cm2",
+                "B. 54cm2",
+                "C. 81cm2",
+                "D. 135cm2"
+            ],
+            "answer": "D. 135cm2"
+        },
+        {
+            "id": "453",
+            "question": "Hình thoi có hai cặp cạnh đối diện ......... và bốn cạnh ........",
+            "choices": [
+                "A. song song, vuông góc",
+                "B. vuông góc, song song",
+                "C. bằng nhau, song song",
+                "D. song song, bằng nhau"
+            ],
+            "answer": "D. song song, bằng nhau"
+        },
+        {
+            "id": "454",
+            "question": "Độ dài cạnh của hình vuông có diện tích bằng 81cm² là:",
+            "choices": [
+                "A. 10cm",
+                "B. 9cm",
+                "C. 11cm",
+                "D. 12cm"
+            ],
+            "answer": "B. 9cm"
+        },
+        {
+            "id": "461",
+            "question": "Đoạn dây dài 18 m. Đem gấp thành hình tam giác. Mỗi cạnh hình tam giác dài số mét là:",
+            "choices": [
+                "A. 9 m",
+                "B. 8 m",
+                "C. 4m",
+                "D. 6 m"
+            ],
+            "answer": "D. 6 m"
+        },
+        {
+            "id": "560",
+            "question": "Hà cần một chiếc hộp để đựng 4 cái bánh hình tròn có bán kính là 4 cm. Hà tìm được một cửa hàng bán loại hộp giấy hình vuông có các kích cỡ (độ đài của cạnh hộp) là 80 mm, 100 mm, 140 mm, 160 mm. Để đựng vừa số bánh trên, Hà nên chọn mua chiếc hộp cạnh dài là:",
+            "choices": [
+                "A. 80 mm",
+                "B. 100 mm",
+                "C. 140 mm",
+                "D. 160 mm"
+            ],
+            "answer": "D. 160 mm"
+        },
+        {
+            "id": "573",
+            "question": "Hai đường chéo của hình thoi có đặc điểm:",
+            "choices": [
+                "A. bằng nhau",
+                "B. vuông góc",
+                "C. bằng nhau và vuông góc",
+                "D. không có đặc điểm"
+            ],
+            "answer": "B. vuông góc"
+        },
+        {
+            "id": "588",
+            "question": "Hiền đã lắp ghép xong một bức tranh hình chữ nhật từ các mảnh ghép hình vuông cạnh 3 cm. Hiền tính được diện tích của bức tranh là 360 cm2. Vậy số mảnh ghép Hiền đã dùng để lắp ghép bức tranh đó là:",
+            "choices": [
+                "A. 20 mảnh ghép",
+                "B. 40 mảnh ghép",
+                "C. 60 mảnh ghép",
+                "D. 30 mảnh ghép"
+            ],
+            "explanation": "Diện tích mảnh ghép hình vuông là: 3 ${\\times}$ 3 = 9 (cm2)\n Số mảnh ghép Hiền đã dùng để lắp ghép bức tranh là: 360 : 9 = 40 (mảnh)\n Đáp số: 40 mảnh ghép",
+            "answer": "B. 40 mảnh ghép"
+        },
+        {
+            "id": "602",
+            "question": "Hình bình hành có đặc điểm gì?",
+            "choices": [
+                "A. Hai cặp cạnh đối diện vuông góc",
+                "B. Hai cặp cạnh đối diện cắt nhau",
+                "C. Hai cặp cạnh đối diện song song và bằng nhau",
+                "D. Không có đặc điểm nhận biết"
+            ],
+            "answer": "C. Hai cặp cạnh đối diện song song và bằng nhau"
+        },
+        {
+            "id": "603",
+            "question": "Hình chóp tứ giác có bao nhiêu mặt là tam giác?",
+            "choices": [
+                "A. 5",
+                "B. 6",
+                "C. 3",
+                "D. 4"
+            ],
+            "answer": "D. 4"
+        },
+        {
+            "id": "604",
+            "question": "Hình chữ nhật ABCD có chiều dài 6 cm, chiều rộng 4 cm. Chu vi của hình chữ nhật là:",
+            "choices": [
+                "A. 10 cm",
+                "B. 20 cm",
+                "C. 24 cm²",
+                "D. 24 cm"
+            ],
+            "answer": "B. 20 cm"
+        },
+        {
+            "id": "605",
+            "question": "Hình chữ nhật ABCD có chiều dài 6 cm, chiều rộng 4 cm. Diện tích của hình chữ nhật là:",
+            "choices": [
+                "A. 24 cm²",
+                "B. 24cm",
+                "C. 20 cm²",
+                "D. 20 cm"
+            ],
+            "answer": "A. 24 cm²"
+        },
+        {
+            "id": "607",
+            "question": "Hình hộp chữ nhật có ba kích thước đôi một khác nhau có bao nhiêu mặt phẳng đối xứng?",
+            "choices": [
+                "A. 9 mặt phẳng",
+                "B. 4 mặt phẳng",
+                "C. 6 măt phẳng",
+                "D. 3 mặt phẳng"
+            ],
+            "answer": "D. 3 mặt phẳng"
+        },
+        {
+            "id": "608",
+            "question": "Hình tam giác có cạnh đáy 42,5m và diện tích là 11050dm2. Chiều cao của hình tam giác là:",
+            "choices": [
+                "A.51dm",
+                "B.50dm",
+                "C.53dm",
+                "D.52dm"
+            ],
+            "answer": "D.52dm"
+        },
+        {
+            "id": "609",
+            "question": "Hình tam giác có diện tích 600cm2, độ dài đáy là 40cm. Chiều cao của tam giác là:",
+            "choices": [
+                "A. 15cm",
+                "B. 30cm",
+                "C. 30",
+                "D. 15"
+            ],
+            "explanation": "Hình tam giác có diện tích 600cm2, độ dài đáy là 40cm. Chiều cao của tam giác là: 600 ${\\times}$ 2 : 40 = 30 (cm)",
+            "answer": "B. 30cm"
+        },
+        {
+            "id": "611",
+            "question": "Hình thoi ABCD có độ dài đường chéo AC là 1,2m; Độ dài đường chéo BD bằng 75% độ dài đường chéo AC. Diện tích hình thoi đó là:",
+            "choices": [
+                "A. 0,96 m2",
+                "B. 0,92 m2",
+                "C. 1,08 m2",
+                "D. 0,54 m2"
+            ],
+            "answer": "D. 0,54 m2"
+        },
+        {
+            "id": "612",
+            "question": "Hình tròn có bán kính 0,5 m. Chu vi của hình tròn đó là:",
+            "choices": [
+                "A. 6,28 m",
+                "B. 3,14 m",
+                "C. 12,56 m",
+                "D. 1,57 m"
+            ],
+            "answer": "B. 3,14 m"
+        },
+        {
+            "id": "613",
+            "question": "Hình tròn có bán kính r = 4,4 dm. Vậy chu vi hình tròn là",
+            "choices": [
+                "A. 27632 dm",
+                "B. 273,62 dm",
+                "C. 27,632 dm",
+                "D. 27, 0632 dm"
+            ],
+            "answer": "C. 27,632 dm"
+        },
+        {
+            "id": "614",
+            "question": "Hình tròn thứ nhất có đường kính bằng bán kính hình tròn thứ hai. Tỉ số phần trăm diện tích của hình tròn thứ nhất và hình tròn thứ hai là:",
+            "choices": [
+                "A. 20%",
+                "B. 25%",
+                "C. 40%",
+                "D. 50%"
+            ],
+            "answer": "B. 25%"
+        },
+        {
+            "id": "615",
+            "question": "Hình vuông ABCD có cạnh dài 5cm. Chu vi của hình vuông là?",
+            "choices": [
+                "A. 20 cm",
+                "B. 10 cm",
+                "C. 25 cm2",
+                "D. 25 cm"
+            ],
+            "answer": "A. 20 cm"
+        },
+        {
+            "id": "616",
+            "question": "Hình vuông có cạnh 9cm. Diện tích hình vuông là:",
+            "choices": [
+                "A. 36cm²",
+                "B. 81cm",
+                "C. 81cm²",
+                "D. 36cm"
+            ],
+            "answer": "C. 81cm²"
+        },
+        {
+            "id": "758",
+            "question": "Một hình chữ nhật có chiều dài 327cm, chiều rộng bằng chiều dài. Diện tích của hình chữ nhật đó là:",
+            "choices": [
+                "A. 35543cm2",
+                "B. 35643cm2",
+                "C. 34643cm2",
+                "D. 6213cm2"
+            ],
+            "answer": "B. 35643cm2"
+        },
+        {
+            "id": "857",
+            "question": "Một bàn ăn hình vuông có chu vi là 15 dm 2 cm. Cạnh của bàn ăn đó dài là:",
+            "choices": [
+                "A. 3 cm",
+                "B. 3 dm",
+                "C. 38 dm",
+                "D. 38 cm"
+            ],
+            "answer": "D. 38 cm"
+        },
+        {
+            "id": "858",
+            "question": "Một bể cá có dạng hình hộp chữ nhật có các kích thước lần lượt là 55cm, 40cm và 24cm. Bể cá đó chứa được số lít nước là:",
+            "choices": [
+                "A. 13200 lít",
+                "B. 1320 lít",
+                "C. 13,2 lít",
+                "D. 132 lít"
+            ],
+            "answer": "C. 13,2 lít"
+        },
+        {
+            "id": "861",
+            "question": "Một bồn hoa hình vuông có độ dài mỗi cạnh bằng 1274cm. Chu vi của bồn hoa đó là:",
+            "choices": [
+                "A. 5196cm",
+                "B. 5206cm",
+                "C. 5296cm",
+                "D. 5096cm"
+            ],
+            "answer": "D. 5096cm"
+        },
+        {
+            "id": "901",
+            "question": "Một hình bình hành có diện tích 192 cm2, chiều cao bằng 12 cm. Độ dài đáy tương ứng của hình bình hành là:",
+            "choices": [
+                "A. 32 cm",
+                "B. 16 cm",
+                "C. 8 cm",
+                "D. 64 cm"
+            ],
+            "answer": "B. 16 cm"
+        },
+        {
+            "id": "902",
+            "question": "Một hình bình hành có độ dày đáy bằng $\\frac{3}{2}$ dm và chiều cao bằng $\\frac{1}{2}$ độ dài đáy. Diện tích của hình bình hành là:",
+            "choices": [
+                "A. $\\frac{9}{4}$ dm2",
+                "B. $\\frac{9}{16}$ dm2",
+                "C. $\\frac{9}{8}$ dm2",
+                "D. $\\frac{3}{4}$ dm2"
+            ],
+            "explanation": "Diện tích hình bình hành bằng độ dài cạnh đáy nhân với chiều cao.\n Chiều cao của hình bình hành là: $\\frac{3}{2}$ ${\\times}$ $\\frac{1}{2}$ = $\\frac{3}{4}$ (dm)\n Diện tích hình bình hành đó là: $\\frac{3}{2}$ ${\\times}$ $\\frac{3}{4}$ = $\\frac{9}{8}$ (dm2)\n Đáp số: $\\frac{9}{8}$ dm2.",
+            "answer": "C. $\\frac{9}{8}$ dm2"
+        },
+        {
+            "id": "903",
+            "question": "Một hình chữ nhật có chiều dài 24cm và diện tích bằng 386cm2. Chiều rộng của hình chữ nhật là:",
+            "choices": [
+                "A. 16cm",
+                "B. 14cm",
+                "C.12cm",
+                "D. 10cm"
+            ],
+            "answer": "A. 16cm"
+        },
+        {
+            "id": "904",
+            "question": "Một hình chữ nhật có chiều dài 25cm, chiều rộng 4cm. Chu vi hình chữ nhật là:",
+            "choices": [
+                "A. 58 cm",
+                "B. 29 cm",
+                "C. 100 cm"
+            ],
+            "answer": "A. 58 cm"
+        },
+        {
+            "id": "905",
+            "question": "Một hình chữ nhật có chiều dài 2dm, chiều rộng 10cm. Diện tích hình chữ nhật là: ",
+            "choices": [
+                "A. 24 cm2",
+                "B. 20 cm2",
+                "C. 200 cm2"
+            ],
+            "answer": "C. 200 cm2"
+        },
+        {
+            "id": "907",
+            "question": "Một hình chữ nhật có chiều dài là 8dm, chiều rộng là 4cm. Diện tích của hình chữ nhật đó là:",
+            "choices": [
+                "A. 32 cm",
+                "B. 32 cm 2",
+                "C. 320 cm",
+                "D. 320 cm 2"
+            ],
+            "answer": "D. 320 cm 2"
+        },
+        {
+            "id": "908",
+            "question": "Một hình chữ nhật có chiều rộng 12cm và diện tích bằng 96cm2. Chiều dài của hình chữ nhật là:",
+            "choices": [
+                "A.10cm",
+                "B. 8cm",
+                "C. 12cm",
+                "D. 14cm"
+            ],
+            "answer": "B. 8cm"
+        },
+        {
+            "id": "910",
+            "question": "Một hình chữ nhật có chiều rộng bằng 5 cm, chiều dài gấp 3 lần chiều rộng. Diện tích của hình chữ nhật đó là:",
+            "choices": [
+                "A. 15 cm2",
+                "B. 75 cm2",
+                "C. 50 cm2",
+                "D. 45 cm2"
+            ],
+            "explanation": "Chiều dài của hình chữ nhật là:\n 5 × 3 = 15 (cm)\n Diện tích hình chữ nhật đó là:\n 15 × 5 = 75 (cm2)\n Đáp số: 75 cm2",
+            "answer": "B. 75 cm2"
+        },
+        {
+            "id": "916",
+            "question": "Một hình hộp chữ nhật có thể tích là 270 cm3; chiều dài 6 cm; chiều cao 9 cm. Chiều rộng của hình hộp chữ nhật đó là:",
+            "choices": [
+                "A. 5 cm",
+                "B. 9 cm",
+                "C. 15 cm",
+                "D. 30 cm"
+            ],
+            "answer": "A. 5 cm"
+        },
+        {
+            "id": "917",
+            "question": "Một hình hộp chữ nhật có thể tích là 400cm3, chiều dài 10cm, chiều rộng 8cm. Chiều cao của hình hộp chữ nhật là:",
+            "choices": [
+                "A. 8cm",
+                "B. 7cm",
+                "C. 6cm",
+                "D. 5cm"
+            ],
+            "answer": "D. 5cm"
+        },
+        {
+            "id": "918",
+            "question": "Một hình lập phương có cạnh 2cm. Nếu gấp cạnh của hình lập phương lên 3 lần thì diện tích xung quanh và diện tích toàn phần tăng số lần lần lượt là:",
+            "choices": [
+                "A. 3 lần, 3 lần",
+                "B.6 lần, 9 lần",
+                "C. 4 lần, 6 lần",
+                "D. 9 lần, 9 lần"
+            ],
+            "answer": "D. 9 lần, 9 lần"
+        },
+        {
+            "id": "919",
+            "question": "Một hình lập phương có chu vi đáy là 28dm. Diện tích toàn phần của hình lập phương đó là:",
+            "choices": [
+                "A.196dm2",
+                "B.294dm2",
+                "C.3136dm2",
+                "D.4704dm2"
+            ],
+            "answer": "B.294dm2"
+        },
+        {
+            "id": "920",
+            "question": "Một hình tam giác có cạnh đáy bằng 80cm, chiều cao bằng 60% cạnh đáy. Diện tích của tam giác đó bằng:",
+            "choices": [
+                "A. 19,2 dm2",
+                "B. 192 dm2",
+                "C. 384 dm2",
+                "D. 38,4 dm2"
+            ],
+            "explanation": "Chiều cao của hình tam giác đó là:80 ${\\times}$ 60 : 100 = 48 (cm). Diện tích của tam giác đó là:80 ${\\times}$ 48 : 2 = 1920 (cm2) Đổi: 1920 cm2 = 19,2 dm2 Đáp số: 19,2 dm2",
+            "answer": "A. 19,2 dm2"
+        },
+        {
+            "id": "921",
+            "question": "Một hình tam giác có chu vi là 24 cm, các cạnh của hình tam giác có độ dài bằng nhau. Độ dài mỗi cạnh của hình tam giác đó là:",
+            "choices": [
+                "A. 8 dm",
+                "B. 7 cm",
+                "C. 80 mm",
+                "D. 9 dm"
+            ],
+            "answer": "C. 80 mm"
+        },
+        {
+            "id": "922",
+            "question": "Một hình tam giác có diện tích 384 cm2, chiều cao 24 cm. Vậy cạnh đáy của hình tam giác đó là:",
+            "choices": [
+                "A. 16 cm",
+                "B. 32 cm",
+                "C. 16 cm2",
+                "D. 32 cm2"
+            ],
+            "explanation": "Cạnh đáy của hình tam giác đó là:\n 2 ${\\times}$ 384 : 24 = 32 (cm) \n Đáp số: 32 cm2",
+            "answer": "B. 32 cm"
+        },
+        {
+            "id": "923",
+            "question": "Một hình tam giác có diện tích 480cm2, độ dài đáy 12cm. Chiều cao của hình tam giác là:",
+            "choices": [
+                "A. 15cm",
+                "B. 40cm",
+                "C. 80cm",
+                "D. 30cm"
+            ],
+            "explanation": "Một hình tam giác có diện tích 480cm2, độ dài đáy 12cm. \n Chiều cao của hình tam giác là:480 ${\\times}$ 2 : 12 = 80 (cm).",
+            "answer": "C. 80cm"
+        },
+        {
+            "id": "924",
+            "question": "Một hình tam giác có độ dài đáy bằng 12,6 cm. Chiều cao bằng $\\frac{1}{2}$ độ dài đáy. Diện tích của tam giác đó là:",
+            "choices": [
+                "A. 79,38 cm2",
+                "B. 36,69 cm2",
+                "C. 39,83 cm2",
+                "D. 39,96 cm2"
+            ],
+            "explanation": "Chiều cao của tam giác là:12,6 : 2 = 6,3 (cm)\n Diện tích của tam giác đó là:(12,6 ${\\times}$ 6,3) : 2 = 39,69 (cm2)\n Đáp số: 39,69 cm2.",
+            "answer": "D. 39,96 cm2"
+        },
+        {
+            "id": "925",
+            "question": "Một hình tam giác có độ dài đáy bằng 3,2 dm. Chiều cao tương ứng bằng $\\frac{3}{4}$ độ dài đáy. Diện tích tam giác đó là:",
+            "choices": [
+                "A. 2,4 dm2",
+                "B. 7,68 dm2",
+                "C. 3,84 dm2",
+                "D. 7,68 dm2"
+            ],
+            "answer": "C. 3,84 dm2"
+        },
+        {
+            "id": "928",
+            "question": "Một hình thoi có độ dài đường chéo thứ nhất là 12 cm và đường chéo thứ hai có độ dài bằng $\\frac{2}{3}$ đường chéo thứ nhất. Diện tích hình thoi là:",
+            "choices": [
+                "A. 28 cm2",
+                "B. 42 cm2",
+                "C.48 cm2",
+                "D. 96 cm2"
+            ],
+            "explanation": "Độ dài đường chéo thứ hai là: 12 ${\\times}$ $\\frac{2}{3}$ = 8 (cm) \n Diện tích hình thoi là: 12 ${\\times}$ 8 : 2 = 48 (cm2)",
+            "answer": "C.48 cm2"
+        },
+        {
+            "id": "929",
+            "question": "Một hình thoi có độ dài hai đường chéo là 18 cm và 12 cm. Diện tích của hình thoi là:",
+            "choices": [
+                "A. 216 cm2",
+                "B. 432 cm2",
+                "C. 108 cm2",
+                "D. 60 cm2"
+            ],
+            "explanation": "Diện tích của hình thoi là:$\\frac{18\\times 12}{2}$ = 108 (cm2)\n Đáp số: 108 cm2",
+            "answer": "C. 108 cm2"
+        },
+        {
+            "id": "930",
+            "question": "Một hình thoi có độ dài hai đường chéo là 18 cm và 3 dm. Diện tích hình thoi đó là:",
+            "choices": [
+                "A. 270 cm2",
+                "B. 540 cm2",
+                "C. 27 dm2",
+                "D. 54 dm2"
+            ],
+            "answer": "A. 270 cm2"
+        },
+        {
+            "id": "931",
+            "question": "Một hình tròn có diện tích 3,14dm2 thì bán kính của hình tròn đó là:",
+            "choices": [
+                "A. 1dm",
+                "B. 0,5dm",
+                "C. 0,1dm",
+                "D. 1,57dm"
+            ],
+            "answer": "A. 1dm"
+        },
+        {
+            "id": "932",
+            "question": "Một hình tròn có tâm O và đường kính BC bằng 710cm. Bán kính của đường tròn là:",
+            "choices": [
+                "A. 700",
+                "B. 710",
+                "C. 350",
+                "D. 355"
+            ],
+            "answer": "D. 355"
+        },
+        {
+            "id": "933",
+            "question": "Một hình trụ có chiều cao bằng 10 và bán kính mặt đáy bằng 5. Một mặt phẳng song song với trục của hình trụ và cách trục một khoảng bằng 3 cắt hình trụ theo thiết diện có diện tích bằng",
+            "choices": [
+                "A. 40",
+                "B. 80",
+                "C. 100",
+                "D. 50"
+            ],
+            "answer": "B. 80"
+        },
+        {
+            "id": "934",
+            "question": "Một hình vuông cho chu vi bằng 32 cm. Vậy diện tích hình vuông đó là:",
+            "choices": [
+                "A. 64 cm2",
+                "B. 49 cm2",
+                "C. 36 cm2",
+                "D. 25 cm2"
+            ],
+            "explanation": "Độ dài cạnh hình vuông là: 32 : 4 = 8 (cm)\n Diện tích hình vuông đó là: 8 ${\\times}$ 8 = 64 (cm2)",
+            "answer": "A. 64 cm2"
+        },
+        {
+            "id": "935",
+            "question": "Một hình vuông có cạnh 5cm. Tính diện tích hình vuông đó?",
+            "choices": [
+                "A. 25cm",
+                "B. 25cm²",
+                "C. 20cm",
+                "D. 20cm²"
+            ],
+            "answer": "B. 25cm²"
+        },
+        {
+            "id": "936",
+            "question": "Một hình vuông có cạnh dài 8 cm. Chu vi của hình vuông đó là:",
+            "choices": [
+                "A. 24 cm",
+                "B. 64 cm",
+                "C. 32 cm",
+                "D. 16 cm"
+            ],
+            "explanation": "Chu vi hình vuông đó là 8 ${\\times}$ 4 = 32 (cm)\n Đáp số: 32 cm",
+            "answer": "C. 32 cm"
+        },
+        {
+            "id": "937",
+            "question": "Một hình vuông có chu vi 20 cm. Diện tích của hình vuông đó là:",
+            "choices": [
+                "A. 20 cm2",
+                "B. 25 cm",
+                "C. 25 cm2",
+                "D. 20 cm"
+            ],
+            "explanation": "Độ dài cạnh của hình vuông là:\n 20 : 4 = 5 (cm)\n Diện tích hình vuông là:\n 5 × 5 = 25 (cm2)",
+            "answer": "C. 25 cm2"
+        },
+        {
+            "id": "938",
+            "question": "Một hình vuông có chu vi bằng 36 cm. Diện tích của hình vuông đó là:",
+            "choices": [
+                "A.24 cm2",
+                "B.81 cm2",
+                "C.60 cm2",
+                "D.72 cm2"
+            ],
+            "explanation": "Độ dài cạnh hình vuông là 36 : 4 = 9 (cm)\n Diện tích của hình vuông đó là 9 ${\\times}$ 9 = 81 (cm2)\n Đáp số: 81 cm2",
+            "answer": "B.81 cm2"
+        },
+        {
+            "id": "939",
+            "question": "Một hình vuông có diện tích bằng 16cm2. Chu vi của hình vuông đó là:",
+            "choices": [
+                "A.10cm",
+                "B.18cm",
+                "C. 14cm",
+                "D. 16cm"
+            ],
+            "answer": "D. 16cm"
+        },
+        {
+            "id": "940",
+            "question": "Một hình vuông có diện tích là 1m269dm2. Chu vi của hình vuông đó là:",
+            "choices": [
+                "A. 26dm",
+                "B. 52dm",
+                "C. 48dm",
+                "D. 44dm"
+            ],
+            "answer": "B. 52dm"
+        },
+        {
+            "id": "948",
+            "question": "Một khối kim loại hình lập phương có thể tích 2,45cm3 nặng 18,62g. Hỏi khối kim loại cùng chất có thể tích 3,5cm3 cận nặng bao nhiêu gam?",
+            "choices": [
+                "A. 7,6 g",
+                "B. 13,034 g",
+                "C. 26,6 g",
+                "D. 26,22 g"
+            ],
+            "answer": "C. 26,6 g"
+        },
+        {
+            "id": "949",
+            "question": "Một khu công nghiệp hình chữ nhật có chiều dài 4000m và chiều rộng bằng 2km. Diện tích khu vườn theo đơn vị ki-lô-mét vuông là:",
+            "choices": [
+                "A. 8km2",
+                "B. 80km2",
+                "C. 800km2",
+                "D. 8000km2"
+            ],
+            "answer": "A. 8km2"
+        },
+        {
+            "id": "950",
+            "question": "Một khu đất hình chữ nhất có chiều dài là 60m, chiều rộng là 24m. Người ta chia thành những thửa đất hình vuông bằng nhau, để mỗi thửa đất có diện tích lớn nhất thì độ dài mỗi cạnh của thửa đất đó bằng?",
+            "choices": [
+                "A. 6m",
+                "B. 10m",
+                "C. 12m",
+                "D. 9m"
+            ],
+            "answer": "C. 12m"
+        }
+    ]
+}

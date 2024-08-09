@@ -1,0 +1,1302 @@
+{
+    "__count__": 15,
+    "data": [
+        {
+            "id": "10",
+            "question": "8 dm2 24 cm2 = ......... dm2. Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 824",
+                "B. 82,4",
+                "C. 8,24",
+                "D. 0,824"
+            ],
+            "explanation": "Ta có 24 cm2 = 0,24 dm2\n Vậy 8 dm2 24 cm2 = 8,24 dm2.",
+            "answer": "C. 8,24"
+        },
+        {
+            "id": "103",
+            "question": "12m2 35dm2 = ...... m2. Số thích hợp để điền vào chỗ chấm là:",
+            "choices": [
+                "A. 1235",
+                "B. 12,35",
+                "C. 123,5",
+                "D. 1,235"
+            ],
+            "answer": "B. 12,35"
+        },
+        {
+            "id": "104",
+            "question": "12m7dm = ... dm. Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 1 207 dm",
+                "B. 127 dm",
+                "C. 1 270 dm",
+                "D. 1 027 dm"
+            ],
+            "answer": "B. 127 dm"
+        },
+        {
+            "id": "109",
+            "question": "15m2 7dm2 = ..... m2. Số thích hợp điền vào chố chấm là:",
+            "choices": [
+                "A. 15,07 m2",
+                "B. 156 m2",
+                "C. 15,7 m2",
+                "D. 15,007 m2"
+            ],
+            "explanation": "Ta có: $7dm^{2}=\\frac{7}{100}m^{2}=0,07m^{2}$. Vậy: 15m2 7dm2 = 15 m2 + 0,07 m2 = 15,07 m2. Vậy số thích hợp điền vào chố chấm là : 15,07 m2",
+            "answer": "A. 15,07 m2"
+        },
+        {
+            "id": "110",
+            "question": "16 giờ 15 phút - 3 giờ 45 phút ... 9 giờ 25 phút + 2 giờ 39 phút là",
+            "choices": [
+                "A. <",
+                "B. >",
+                "C. ="
+            ],
+            "answer": "B. >"
+        },
+        {
+            "id": "112",
+            "question": "168 phút = ... giờ",
+            "choices": [
+                "A. 2,6 giờ",
+                "B. 2,4 giờ",
+                "C. 2 giờ",
+                "D. 2,8 giờ"
+            ],
+            "answer": "D. 2,8 giờ"
+        },
+        {
+            "id": "114",
+            "question": "1m 3 dm = .... cm. Số thích hợp để điền vào chỗ chấm là:",
+            "choices": [
+                "A. 13",
+                "B. 103",
+                "C. 130",
+                "D. 31"
+            ],
+            "explanation": "1m = 100 cm;3 dm = 30 cm. Vậy 1m 3dm = 100 cm + 30 cm = 130 cm.",
+            "answer": "C. 130"
+        },
+        {
+            "id": "116",
+            "question": "2 giờ = ... phút. Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 120 phút",
+                "B. 110 phút",
+                "C. 60 phút",
+                "D. 240 phút"
+            ],
+            "answer": "A. 120 phút"
+        },
+        {
+            "id": "119",
+            "question": "2 ngày = ... giờ?",
+            "choices": [
+                "A. 12",
+                "B. 24",
+                "C. 48",
+                "D. 56"
+            ],
+            "answer": "C. 48"
+        },
+        {
+            "id": "12",
+            "question": "Cho biết: 18, 987 = 18 + 0,9 + .... + 0,007\n Số thích hợp để viết vào chỗ chấm là:",
+            "choices": [
+                "A. 8",
+                "B. 0,8",
+                "C. 0,08",
+                "D. 0,008"
+            ],
+            "answer": "C. 0,08"
+        },
+        {
+            "id": "120",
+            "question": "2,05 ha = ...........m2",
+            "choices": [
+                "A. 25 000",
+                "B. 20 050",
+                "C. 20 500",
+                "D. 20 005"
+            ],
+            "answer": "C. 20 500"
+        },
+        {
+            "id": "121",
+            "question": "2,3 giờ = ..... giờ ... phút?",
+            "choices": [
+                "A. 2 giờ 18 phút",
+                "B. 2 giờ 30 phút",
+                "C. 2 giờ 3 phút",
+                "D. 2 giờ 36 phút"
+            ],
+            "answer": "A. 2 giờ 18 phút"
+        },
+        {
+            "id": "127",
+            "question": "2014 dm3 = ...... m3 là:",
+            "choices": [
+                "A. 20,14",
+                "B. 2,014",
+                "C. 201,4"
+            ],
+            "answer": "C. 201,4"
+        },
+        {
+            "id": "129",
+            "question": "23 m2 = ......... ha? Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 0,23",
+                "B. 0,023",
+                "C. 0,0023",
+                "D. 0,00023"
+            ],
+            "answer": "C. 0,0023"
+        },
+        {
+            "id": "133",
+            "question": "29 km 415 m = ... km Số thích hợp để viết vào chỗ chấm là:",
+            "choices": [
+                "A. 29415",
+                "B. 29,415",
+                "C. 294,15",
+                "D. 2941,5"
+            ],
+            "explanation": "Ta có: $415m=\\frac{415}{1000}km=0,415km$. Vậy 29 km 415 m = 29 km + 0,415 km = 29,415 km.Vậy số cần điền là: 29,415",
+            "answer": "B. 29,415"
+        },
+        {
+            "id": "135",
+            "question": "2cm2 - 48mm2 = ...",
+            "choices": [
+                "A. 152",
+                "B. 152cm",
+                "C. 185cm2",
+                "D. 152mm2"
+            ],
+            "answer": "D. 152mm2"
+        },
+        {
+            "id": "139",
+            "question": "3,25 tấn = ...... kg. Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 3250",
+                "B. 325",
+                "C. 32,5",
+                "D. 3,25"
+            ],
+            "explanation": "Ta có: 1 tấn = 1 000 kgNên 3,25 tấn = 3 250 kg.",
+            "answer": "A. 3250"
+        },
+        {
+            "id": "140",
+            "question": "3,2m3 = ... dm3. Số thích hợp viết vào chỗ chấm là:",
+            "choices": [
+                "A. 32000",
+                "B. 3200",
+                "C. 320",
+                "D. 32"
+            ],
+            "answer": "B. 3200"
+        },
+        {
+            "id": "141",
+            "question": "3,3 giờ = .....giờ......phút.",
+            "choices": [
+                "A. 3 giờ 30 phút",
+                "B. 3 giờ 15 phút",
+                "C. 3 giờ 18 phút",
+                "D. 3 giờ 12 phút"
+            ],
+            "answer": "C. 3 giờ 18 phút"
+        },
+        {
+            "id": "1457",
+            "question": "Số thập phân thích hợp điền vào chỗ chấm để 4 tấn 13kg = .......tấn là:",
+            "choices": [
+                "A. 4,13",
+                "B. 4,013",
+                "C. 4,0013",
+                "D. 4,103"
+            ],
+            "explanation": "4 tấn 13kg = 4,013 tấn Số thập phân thích hợp điền vào chỗ chấm là: 4,013",
+            "answer": "B. 4,013"
+        },
+        {
+            "id": "1458",
+            "question": "Số thập phân thích hợp điền vào chỗ chấm: 5kg 85g = .......... kg là:",
+            "choices": [
+                "A. 55,8",
+                "B. 58,5",
+                "C. 5,85",
+                "D. 5,085"
+            ],
+            "explanation": "85g = 0,085 kg\n 5 kg 85g = 5 kg + 0,085 kg = 5,085 kg\n Vậy số thích hợp cần điền vào chỗ chấm là: 5,085",
+            "answer": "D. 5,085"
+        },
+        {
+            "id": "1459",
+            "question": "Số thích hợp cần điền vào chỗ chấm để 450000cm3 = .......m3 là:",
+            "choices": [
+                "A. 45",
+                "B. 0,045",
+                "C. 0,45",
+                "D. 450"
+            ],
+            "explanation": "450000cm3 = 0,45m3",
+            "answer": "C. 0,45"
+        },
+        {
+            "id": "148",
+            "question": "3km 48m = ........km.",
+            "choices": [
+                "A. 3,48",
+                "B. 3,048",
+                "C. 348",
+                "D. 3048"
+            ],
+            "answer": "B. 3,048"
+        },
+        {
+            "id": "1484",
+            "question": "Số thích hợp để viết vào chỗ chấm của 0,015 tấn = ..........kg là",
+            "choices": [
+                "A. 150",
+                "B. 15",
+                "C. 1,5",
+                "D. 0,15"
+            ],
+            "explanation": "1 tấn = 1 000 kg \n 0,015 tấn = 0,015 ${\\times}$ 1 000 = 15 kg",
+            "answer": "B. 15"
+        },
+        {
+            "id": "1486",
+            "question": "Số thích hợp điền vào chỗ chấm 5kg 30g = ........ kg là:",
+            "choices": [
+                "A. 53",
+                "B. 50,3",
+                "C. 5,03",
+                "D. 5,3"
+            ],
+            "explanation": "30g = 0,03 kg5 kg 30g = 5 kg + 0,03 kg = 5,03 kg Vậy số thích hợp cần điền vào chỗ chấm là: 5,03",
+            "answer": "C. 5,03"
+        },
+        {
+            "id": "1487",
+            "question": "Số thích hợp điền vào chỗ chấm để $\\frac{....}{3}=\\frac{35}{21}$ là:",
+            "choices": [
+                "A. 49",
+                "B. 5",
+                "C. 7",
+                "D. 21"
+            ],
+            "explanation": "$\\frac{5}{3}=\\frac{5\\times 7}{3\\times 7}=\\frac{35}{21}$\n Vậy số thích hợp điền vào chỗ chấm là 5.",
+            "answer": "B. 5"
+        },
+        {
+            "id": "149",
+            "question": "3m 15 cm = ......... cm. Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 0,315",
+                "B. 3,15",
+                "C. 31,5",
+                "D. 315"
+            ],
+            "answer": "D. 315"
+        },
+        {
+            "id": "1491",
+            "question": "Số thích hợp điền vào chỗ chấm để 50g = .......... kg là",
+            "choices": [
+                "A. 5000",
+                "B. 0,05",
+                "C. 0,5",
+                "D. 5"
+            ],
+            "explanation": "1 kg = 1000 g\n 50 g = 50 : 1000 (kg) = 0,05 kg",
+            "answer": "B. 0,05"
+        },
+        {
+            "id": "1495",
+            "question": "Số thích hợp điền vào chỗ chấm: 8ha 25m2 = ........ dam2 là:",
+            "choices": [
+                "A. 825",
+                "B. 800,25",
+                "C. 8,25",
+                "D. 80025"
+            ],
+            "explanation": "8ha = 800 dam225 m2 = 0,25 dam2Vậy 8ha 25m2 = 800,25 dam2 Vậy số thích hợp điền vào chỗ chấm là: 800,25",
+            "answer": "B. 800,25"
+        },
+        {
+            "id": "150",
+            "question": "3m2 46dm2 = ......... dm2. Số cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 300 046",
+                "B. 30 046",
+                "C. 3 046",
+                "D. 346"
+            ],
+            "answer": "D. 346"
+        },
+        {
+            "id": "1503",
+            "question": "Số thích hợp viết vào chỗ chấm để $\\frac{1}{10}$ phút = ............. giây:",
+            "choices": [
+                "A. 60",
+                "B. 120",
+                "C. 6",
+                "D. 16"
+            ],
+            "explanation": "Vì 1 phút = 60 giây nên $\\frac{1}{10}$ phút = $\\frac{1}{10}$ ${\\times}$ 60 giây = 6 giây\n Vậy $\\frac{1}{10}$ phút = 6 giây",
+            "answer": "C. 6"
+        },
+        {
+            "id": "159",
+            "question": "5 tạ 36 kg = .... kg. Số cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 536",
+                "B. 5036",
+                "C. 5036",
+                "D. 5063"
+            ],
+            "answer": "A. 536"
+        },
+        {
+            "id": "163",
+            "question": "54 ha 45m2 = ......... ha. Số thích hợp cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 54,45",
+                "B. 54,045",
+                "C. 54,0045",
+                "D. 54,0450"
+            ],
+            "answer": "C. 54,0045"
+        },
+        {
+            "id": "165",
+            "question": "5kg 23g = ..........kg",
+            "choices": [
+                "A. 5,023kg",
+                "B. 5,23kg",
+                "C. 5230kg",
+                "D. 5023kg"
+            ],
+            "answer": "A. 5,023kg"
+        },
+        {
+            "id": "168",
+            "question": "6 dm2 7 cm2 = ............... cm2. Số cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 607",
+                "B. 67",
+                "C. 670",
+                "D. 6 007"
+            ],
+            "explanation": "6 dm2 7 cm2 = 600 cm2 + 7 cm2 = 607 cm2\n Vậy 6 dm2 7 cm2 = 607 cm2.",
+            "answer": "A. 607"
+        },
+        {
+            "id": "173",
+            "question": "6,13m3 = ...lít:",
+            "choices": [
+                "A. 613",
+                "B. 6130",
+                "C. 6,13",
+                "D. 61,3"
+            ],
+            "answer": "B. 6130"
+        },
+        {
+            "id": "176",
+            "question": "7 dm2 8cm2 = ........ cm2. Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 7,08",
+                "B. 0,87",
+                "C. 70,8",
+                "D. 708"
+            ],
+            "answer": "D. 708"
+        },
+        {
+            "id": "177",
+            "question": "7 tạ 50 kg = ..... kg. Số thích hợp cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 750",
+                "B. 7 500",
+                "C. 7 050",
+                "D. 5 070"
+            ],
+            "answer": "A. 750"
+        },
+        {
+            "id": "179",
+            "question": "720 000cm2 = ...m2",
+            "choices": [
+                "A. 72",
+                "B. 720",
+                "C. 7200",
+                "D. 7,2"
+            ],
+            "answer": "A. 72"
+        },
+        {
+            "id": "184",
+            "question": "7cm2 9mm2 = ....... cm2 số thích hợp viết vào chỗ chỗ chấm là:",
+            "choices": [
+                "A. 79",
+                "B. 790",
+                "C. 7,09",
+                "D. 7900"
+            ],
+            "answer": "C. 7,09"
+        },
+        {
+            "id": "185",
+            "question": "7hm 3dam = .........m. Số thích hợp điền vào chỗ trống là:",
+            "choices": [
+                "A. 73m",
+                "B. 730m",
+                "C. 703m",
+                "D. 370m"
+            ],
+            "answer": "B. 730m"
+        },
+        {
+            "id": "186",
+            "question": "8 dm2 15 cm2 = ..... cm2. Số thích hợp để điền vào chỗ chấm là:",
+            "choices": [
+                "A. 815",
+                "B. 8 015",
+                "C. 8 150",
+                "D. 81 500"
+            ],
+            "answer": "A. 815"
+        },
+        {
+            "id": "187",
+            "question": "8 km2 325 dam2 = ...... m2. Số thích hợp điền vào chỗ trống là:",
+            "choices": [
+                "A. 8032500",
+                "B. 803250",
+                "C. 8325000",
+                "D. 832500"
+            ],
+            "answer": "A. 8032500"
+        },
+        {
+            "id": "191",
+            "question": "839 tạ = ... tấn là:",
+            "choices": [
+                "A. 83,9",
+                "B. 839",
+                "C. 8,39",
+                "D. 0,839"
+            ],
+            "answer": "A. 83,9"
+        },
+        {
+            "id": "193",
+            "question": "87 cm2 6 mm2 = ... cm2 Số thích hợp để viết vào chỗ chấm là:",
+            "choices": [
+                "A. 876",
+                "B. 87,6",
+                "C. 87,06",
+                "D. 87,006 "
+            ],
+            "explanation": "Ta có: $6mm^{2}=\\frac{6}{100}cm^{2}=0,06cm^{2}$Vậy 87 cm2 6 mm2 = 87 cm2 + 0,06 cm2 = 87,06 cm2 \n Vậy số thích hợp để viết vào chỗ chấm là : 87,06",
+            "answer": "C. 87,06"
+        },
+        {
+            "id": "195",
+            "question": "9 tạ 15kg = ... tạ là:",
+            "choices": [
+                "A. 915",
+                "B. 9015",
+                "C. 91,5",
+                "D. 9,15"
+            ],
+            "answer": "D. 9,15"
+        },
+        {
+            "id": "196",
+            "question": "902 km2 = ............m2. Số thích hợp để viết vào chỗ chấm là:",
+            "choices": [
+                "A. 9 002 000 m2",
+                "B. 92 000 000 m2",
+                "C. 902 000 000 m2",
+                "D. 9 020 000 m2"
+            ],
+            "answer": "C. 902 000 000 m2"
+        },
+        {
+            "id": "198",
+            "question": "9m 2cm = .......cm.",
+            "choices": [
+                "A. 92",
+                "B. 902",
+                "C. 920",
+                "D. 9002"
+            ],
+            "answer": "A. 92"
+        },
+        {
+            "id": "199",
+            "question": "9m 6dm = ... cm:",
+            "choices": [
+                "A. 9600cm",
+                "B. 96cm",
+                "C. 906cm",
+                "D. 960cm"
+            ],
+            "answer": "D. 960cm"
+        },
+        {
+            "id": "2",
+            "question": "“1 giờ 25 phút = ........phút”. Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 85",
+                "B. 125",
+                "C. 49",
+                "D. 1,25"
+            ],
+            "explanation": "1 giờ 25 phút = 85 phút.",
+            "answer": "A. 85"
+        },
+        {
+            "id": "23",
+            "question": "Số thích hợp điền vào chỗ chấm để ‘2,1 ha = ......m2” là:",
+            "choices": [
+                "A. 210",
+                "B. 21",
+                "C. 2100",
+                "D. 21 000"
+            ],
+            "explanation": "Ta có: 1 ha = 10 000 m2 Do đó 2,1 ha = 21 000 m2.",
+            "answer": "D. 21 000"
+        },
+        {
+            "id": "29",
+            "question": "\"6 m = ...... mm\". Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 60",
+                "B. 600",
+                "C. 6 000",
+                "D. 60 000"
+            ],
+            "answer": "C. 6 000"
+        },
+        {
+            "id": "3",
+            "question": "“2 thế kỉ = ........năm”. Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 20",
+                "B. 200",
+                "C. 100",
+                "D. 1000"
+            ],
+            "explanation": "2 thế kỉ = 200 năm.",
+            "answer": "B. 200"
+        },
+        {
+            "id": "4",
+            "question": "“3 tấn 5kg = ......tấn”. Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 3005",
+                "B. 305",
+                "C. 30,05",
+                "D. 3,005"
+            ],
+            "explanation": "“3 tấn 5kg = 3,005 tấn”.",
+            "answer": "D. 3,005"
+        },
+        {
+            "id": "407",
+            "question": "Điền dấu thích hợp vào chỗ chấm: XXIX...XXVI",
+            "choices": [
+                "A. >",
+                "B. <",
+                "C. ="
+            ],
+            "answer": "A. >"
+        },
+        {
+            "id": "408",
+            "question": "Điền dấu thích hợp: 22 000 .... 220 220",
+            "choices": [
+                "A. >",
+                "B. <",
+                "C. =",
+                "D. không thể so sánh"
+            ],
+            "answer": "B. <"
+        },
+        {
+            "id": "409",
+            "question": "Điền số thích hợp vào chỗ chấm: 0,009 tấn = ...kg",
+            "choices": [
+                "A. 9",
+                "B. 90",
+                "C. 900",
+                "D. 9000"
+            ],
+            "answer": "A. 9"
+        },
+        {
+            "id": "41",
+            "question": "$7\\frac{15}{100}$ ha = ...... m2. Số thích hợp cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 715",
+                "B. 7150",
+                "C. 71 500",
+                "D. 745 000"
+            ],
+            "explanation": "Ta có: 1 ha = 10 000 m2.Nên $7\\frac{15}{100}$ ha = 7,15 ha = 71 500 m2. Vậy số thích hợp cần điền vào chỗ chấm là: 71 500.",
+            "answer": "C. 71 500"
+        },
+        {
+            "id": "410",
+            "question": "Điền số thích hợp vào chỗ chấm: 3 giờ 10 phút = ... phút:",
+            "choices": [
+                "A. 150 phút",
+                "B. 170 phút",
+                "C. 180 phút",
+                "D. 190 phút"
+            ],
+            "answer": "D. 190 phút"
+        },
+        {
+            "id": "416",
+            "question": "Điền số thích hợp: 3 tấn × 3 = .... yến",
+            "choices": [
+                "A. 9",
+                "B. 19",
+                "C. 90",
+                "D. 900"
+            ],
+            "answer": "D. 900"
+        },
+        {
+            "id": "418",
+            "question": "Điền số vào chỗ chấm: 5km 5m = .......... m",
+            "choices": [
+                "A. 5500",
+                "B. 505",
+                "C. 5005",
+                "D. 5050"
+            ],
+            "answer": "C. 5005"
+        },
+        {
+            "id": "45",
+            "question": "“ $\\frac{3}{4}$ ha = .......m2”. Số thích hợp điền vào chỗ trống là:",
+            "choices": [
+                "A. 7500",
+                "B. 750",
+                "C. 75",
+                "D. 7,5"
+            ],
+            "answer": "A. 7500"
+        },
+        {
+            "id": "46",
+            "question": "“ $\\frac{3}{5}$ giờ = .....phút” Số thích hợp cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 90 phút",
+                "B. 36 phút",
+                "C. 180 phút",
+                "D. 0,6 phút"
+            ],
+            "answer": "B. 36 phút"
+        },
+        {
+            "id": "463",
+            "question": "Đổi 1 thế kỉ = ..... năm",
+            "choices": [
+                "A. 1",
+                "B. 10",
+                "C. 50",
+                "D. 100"
+            ],
+            "answer": "D. 100"
+        },
+        {
+            "id": "465",
+            "question": "Đổi 3 phút = .... giây",
+            "choices": [
+                "A. 60",
+                "B. 120",
+                "C. 180",
+                "D. 80"
+            ],
+            "answer": "C. 180"
+        },
+        {
+            "id": "466",
+            "question": "Đổi 3m2 = .... dm2",
+            "choices": [
+                "A. 30",
+                "B. 300",
+                "C. 300dm2",
+                "D. 30dm2"
+            ],
+            "answer": "C. 300dm2"
+        },
+        {
+            "id": "467",
+            "question": "Đổi: 4 tạ 2kg = ..... kg",
+            "choices": [
+                "A. 42",
+                "B. 42kg",
+                "C. 402",
+                "D. 402kg"
+            ],
+            "answer": "C. 402"
+        },
+        {
+            "id": "47",
+            "question": "“0,067kg = .....g”. Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 67",
+                "B. 6,7",
+                "C. 670",
+                "D. 6700"
+            ],
+            "explanation": "0,067kg = 67g",
+            "answer": "A. 67"
+        },
+        {
+            "id": "475",
+            "question": "Đơn vị thích hợp để điền vào chỗ chấm 3 tạ 56kg = 3560.... là:",
+            "choices": [
+                "A. kg",
+                "B. hg",
+                "C. dag",
+                "D. g"
+            ],
+            "answer": "B. hg"
+        },
+        {
+            "id": "478",
+            "question": "Gấp 32 lên 3 lần được .........",
+            "choices": [
+                "A. 68",
+                "B. 96",
+                "C. 66",
+                "D. 98"
+            ],
+            "answer": "B. 96"
+        },
+        {
+            "id": "49",
+            "question": "“0,79m3 = ......dm3”. Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 79",
+                "B. 790",
+                "C. 7900",
+                "D. 79000"
+            ],
+            "explanation": "0,79m3 = 790dm3.",
+            "answer": "B. 790"
+        },
+        {
+            "id": "5",
+            "question": "“42 tháng = .........năm”. Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 4",
+                "B. 4,2",
+                "C. 3,5",
+                "D. 35"
+            ],
+            "explanation": "42 tháng = 3,5 năm.",
+            "answer": "C. 3,5"
+        },
+        {
+            "id": "50",
+            "question": "“1 dm = ..... mm”. Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 10",
+                "B. 20",
+                "C. 100",
+                "D. 1000"
+            ],
+            "explanation": "1 dm = 100 mm",
+            "answer": "C. 100"
+        },
+        {
+            "id": "51",
+            "question": "“1 giờ 36 phút = ........giờ”. Số thập phân thích hợp cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 1,36",
+                "B. 13,6",
+                "C. 10,36",
+                "D. 1,6"
+            ],
+            "explanation": "1 giờ 36 phút = 1giờ + giờ = 1,6 giờ. Số thập phân thích hợp cần điền vào chỗ chấm là: 1,6.",
+            "answer": "D. 1,6"
+        },
+        {
+            "id": "52",
+            "question": "“1,5 giờ = .......phút”. Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 60",
+                "B. 90",
+                "C. 120",
+                "D. 150"
+            ],
+            "explanation": "1,5 giờ = 1,5 ${\\times}$ 60 phút = 90 phút. .",
+            "answer": "B. 90"
+        },
+        {
+            "id": "53",
+            "question": "“1,75m2 = .......cm2” Số thích hợp viết vào chỗ chấm là:",
+            "choices": [
+                "A. 175",
+                "B. 1750",
+                "C. 17500",
+                "D. 17050"
+            ],
+            "explanation": "1,75m2 = 17500cm2. Số thích hợp viết vào chỗ chấm là: 17500.",
+            "answer": "C. 17500"
+        },
+        {
+            "id": "54",
+            "question": "“19 m2 9 dm2 = ...... m2”. Số thích hợp để điền vào chỗ chấm là:",
+            "choices": [
+                "A. 19,9",
+                "B. 19,09",
+                "C. 199",
+                "D. 1909"
+            ],
+            "answer": "B. 19,09"
+        },
+        {
+            "id": "55",
+            "question": "“2 giờ = .... phút”. Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 60",
+                "B. 180",
+                "C. 90",
+                "D. 120"
+            ],
+            "explanation": "1 giờ = 60 phút\n Vậy 2 giờ = 60 phút × 2 = 120 phút.",
+            "answer": "D. 120"
+        },
+        {
+            "id": "56",
+            "question": "“2 giờ 30 phút = .....phút”. Số thích hợp cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 2,5",
+                "B. 15,5",
+                "C. 150",
+                "D. 230"
+            ],
+            "explanation": "2 giờ 30 phút = 150 phút",
+            "answer": "C. 150"
+        },
+        {
+            "id": "57",
+            "question": "“2 giờ 6 phút = ........giờ”. Số thích hợp cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 126",
+                "B. 2,1",
+                "C. 2,6",
+                "D. 2,06"
+            ],
+            "explanation": "2 giờ 6 phút = 2 giờ + giờ = 2,1 giờ. Số thích hợp cần điền vào chỗ chấm là: 2,1.",
+            "answer": "B. 2,1"
+        },
+        {
+            "id": "58",
+            "question": "“2,3m3 = ........l” Số thích hợp cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 0,023",
+                "B. 23",
+                "C. 230",
+                "D. 2300"
+            ],
+            "explanation": "2,3m3 = 2300dm3 = 2300l",
+            "answer": "D. 2300"
+        },
+        {
+            "id": "59",
+            "question": "“2800g = .....kg”. Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 28",
+                "B. 2,8",
+                "C. 0,28",
+                "D. 280"
+            ],
+            "explanation": "2800g = 2,8kg",
+            "answer": "B. 2,8"
+        },
+        {
+            "id": "6",
+            "question": "“4760cm3 = ..........” \n Đáp án cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 4,76dm3",
+                "B. 4,76m3",
+                "C. 4,76cm3",
+                "D. 47,6dm3"
+            ],
+            "explanation": "4760cm3 = 4,76dm3. \n Đáp án cần điền vào chỗ chấm là: 4,76dm3.",
+            "answer": "A. 4,76dm3"
+        },
+        {
+            "id": "60",
+            "question": "“3 giờ 35 phút = ......phút” Số thích hợp cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 335",
+                "B. 3,35",
+                "C. 215",
+                "D. 225"
+            ],
+            "explanation": "3 giờ 35 phút = 215 phút",
+            "answer": "C. 215"
+        },
+        {
+            "id": "61",
+            "question": "“3 tạ 56kg = .....tạ”. Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 3056",
+                "B. 3,56",
+                "C. 35,6",
+                "D. 356"
+            ],
+            "explanation": "3 tạ 56kg = 3,56tạ",
+            "answer": "B. 3,56"
+        },
+        {
+            "id": "62",
+            "question": "“3 tấn 250kg = ........tấn”. Số cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 3025",
+                "B. 3250",
+                "C. 3,025",
+                "D. 3,25"
+            ],
+            "explanation": "3 tấn 250kg = 3 tấn + tấn = 3,25 tấn",
+            "answer": "D. 3,25"
+        },
+        {
+            "id": "63",
+            "question": "“3,2m3 = .......dm3”. Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 32000",
+                "B. 3200",
+                "C. 320",
+                "D. 32"
+            ],
+            "explanation": "3,2m3 = 3,2 ${\\times}$ 1000 dm3 = 3200dm3.",
+            "answer": "B. 3200"
+        },
+        {
+            "id": "64",
+            "question": "“30m3 50dm3 = ......m3”. Số thích hợp cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 3050",
+                "B. 30050",
+                "C. 30,05",
+                "D. 30,5"
+            ],
+            "explanation": "30m3 50dm3 = 30,05 m3",
+            "answer": "C. 30,05"
+        },
+        {
+            "id": "65",
+            "question": "“3km 15m = .......km”. Số thích hợp cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 3,15",
+                "B. 31,5",
+                "C. 3,015",
+                "D. 30,15"
+            ],
+            "explanation": "3km 15m = 3km + km = 3,015km.",
+            "answer": "C. 3,015"
+        },
+        {
+            "id": "66",
+            "question": "“3m3 76dm3 = ........m3”. Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 3,76",
+                "B. 3,706",
+                "C. 37,6",
+                "D. 3,076"
+            ],
+            "explanation": "3m3 76dm3 = 3,076m3.",
+            "answer": "D. 3,076"
+        },
+        {
+            "id": "67",
+            "question": "“4 ngày 18 giờ = ..........ngày”. Số thích hợp cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 4,3",
+                "B. 4,75",
+                "C. 4,5",
+                "D. 4,18"
+            ],
+            "explanation": "4 ngày 18 giờ = 4,75 ngày",
+            "answer": "B. 4,75"
+        },
+        {
+            "id": "68",
+            "question": "“4 tạ 3 yến = ....kg”. Số thích hợp cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 43",
+                "B. 4300",
+                "C. 4,3",
+                "D. 430"
+            ],
+            "explanation": "4 tạ 3 yến = 430kg",
+            "answer": "D. 430"
+        },
+        {
+            "id": "69",
+            "question": "“45dm3 124cm3 = .....dm3” Số thích hợp cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 45,124",
+                "B. 45124",
+                "C. 451,24",
+                "D. 0,45124"
+            ],
+            "explanation": "45dm3 124cm3 = 45,124dm3",
+            "answer": "A. 45,124"
+        },
+        {
+            "id": "7",
+            "question": "52.5dm2 = ....mm2 là:",
+            "choices": [
+                "A. 5100",
+                "B. 5200",
+                "C. 52000",
+                "D. 52500"
+            ],
+            "answer": "D. 52500"
+        },
+        {
+            "id": "70",
+            "question": "“4dam2 8m2 = .....dam2.” Số thích hợp điền vào cỗ chấm là:",
+            "choices": [
+                "A. 48",
+                "B. 4,8",
+                "C. 4,008",
+                "D. 4,08"
+            ],
+            "answer": "D. 4,08"
+        },
+        {
+            "id": "71",
+            "question": "“4dam2 8m2 = .....dam2.” Số thích hợp điền vào cỗ chấm là:",
+            "choices": [
+                "A. 48",
+                "B. 4,8",
+                "C. 4,008",
+                "D. 4,08"
+            ],
+            "explanation": "4dam2 8m2 = 4,08 dam2",
+            "answer": "D. 4,08"
+        },
+        {
+            "id": "72",
+            "question": "“4m3 45dm3 = ........m3”. Số thích hợp để điền vào chỗ chấm là:",
+            "choices": [
+                "A. 4,45",
+                "B. 4,450",
+                "C. 4,405",
+                "D. 4,045"
+            ],
+            "explanation": "4m3 45dm3 = 4,045m3. Số thích hợp để điền vào chỗ chấm là: 4,045.",
+            "answer": "D. 4,045"
+        },
+        {
+            "id": "73",
+            "question": "“5,4 phút = ......giây”. Số thích hợp cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 54",
+                "B. 540",
+                "C. 192",
+                "D. 324"
+            ],
+            "explanation": "5,4 phút = 324 giây",
+            "answer": "D. 324"
+        },
+        {
+            "id": "74",
+            "question": "“5dm2 3cm2 = ......dm2”. Số thích hợp cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 5,3",
+                "B. 5,03",
+                "C. 503",
+                "D. 53"
+            ],
+            "explanation": "5dm2 3cm2 = 5,03dm2",
+            "answer": "B. 5,03"
+        },
+        {
+            "id": "75",
+            "question": "“5km 706m = .......hm” Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 50,706",
+                "B. 57,06",
+                "C. 5706",
+                "D. 50706"
+            ],
+            "explanation": "5km 706m = 50hm + 7,06hm = 57,06hm",
+            "answer": "B. 57,06"
+        },
+        {
+            "id": "759",
+            "question": "Số thích hợp để viết vào chỗ chấm của 1m2 25cm2 = ............cm2 là:",
+            "choices": [
+                "A. 125",
+                "B. 1025",
+                "C. 12 500",
+                "D. 10 025"
+            ],
+            "explanation": "Số thích hợp để viết vào chỗ chấm của : 1m2 25cm2 = 10 025 cm2",
+            "answer": "D. 10 025"
+        },
+        {
+            "id": "76",
+            "question": "“8 dm2 9 cm2 = ...... cm2.” Số thích hợp để điền vào chỗ chấm là:",
+            "choices": [
+                "A. 8,9",
+                "B. 8,09",
+                "C. 809",
+                "D. 8009"
+            ],
+            "explanation": "Ta có 8 dm2 = 800 cm2.Nên 8 dm2 9 cm2 = 800 cm2 + 9 cm2 = 809 cm2.",
+            "answer": "C. 809"
+        },
+        {
+            "id": "760",
+            "question": "805 m2 = ... ha \n Số thích hợp điền vào chỗ trống là:",
+            "choices": [
+                "A. 80,5",
+                "B. 8,05",
+                "C. 0,805",
+                "D. 0,0805"
+            ],
+            "answer": "D. 0,0805"
+        },
+        {
+            "id": "77",
+            "question": "“8 m 9 cm = ...... m”. Số thập phân thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 8,09",
+                "B. 8,009",
+                "C. 8,9",
+                "D. 809"
+            ],
+            "explanation": "Ta có 9 cm = 0,09 m Do đó 8 m 9 cm = 8 m + 0,09 m = 8,09 m.Vậy số thập phân thích hợp điền vào chỗ chấm là: 8,09.",
+            "answer": "A. 8,09"
+        },
+        {
+            "id": "78",
+            "question": "“8 m2 6 dm2 = ...... m2.” Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 8,6",
+                "B. 86",
+                "C. 806",
+                "D. 8,06"
+            ],
+            "answer": "D. 8,06"
+        },
+        {
+            "id": "79",
+            "question": "“9ha 7m2 = .........dam2”. Số thích hợp cần điền vào chỗ chấm là:",
+            "choices": [
+                "A. 9,7",
+                "B. 9,07",
+                "C. 900,07",
+                "D. 90,07"
+            ],
+            "explanation": "9ha 7m2 = 90,07dam2",
+            "answer": "D. 90,07"
+        },
+        {
+            "id": "8",
+            "question": "5m2 6dm2 = ... dm2 Số thích hợp để viết vào chỗ chấm là:",
+            "choices": [
+                "A. 56",
+                "B. 560",
+                "C. 506",
+                "D. 5600"
+            ],
+            "explanation": "5m2 6dm2 = 506 dm2",
+            "answer": "C. 506"
+        },
+        {
+            "id": "82",
+            "question": "“Cho 1 giờ 35 phút = ........phút”. Số thích hợp để điền vào chỗ chấm là:",
+            "choices": [
+                "A. 95",
+                "B. 105",
+                "C. 135",
+                "D. 1,35"
+            ],
+            "explanation": "Cho 1 giờ 35 phút = 95 phút.",
+            "answer": "A. 95"
+        },
+        {
+            "id": "87",
+            "question": "“m3 = ........m3”. Số thập phân thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 1,4",
+                "B. 0,25",
+                "C. 2,5",
+                "D. 0,14"
+            ],
+            "explanation": "m3 = 0,25m3. Số thập phân thích hợp điền vào chỗ chấm là: 0,25.",
+            "answer": "B. 0,25"
+        },
+        {
+            "id": "9",
+            "question": "66m2 66cm2 = ... cm2\n Số thích hợp để viết vào chỗ chấm là:",
+            "choices": [
+                "A. 6666",
+                "B. 666 600",
+                "C. 660 660",
+                "D. 660 066"
+            ],
+            "explanation": "66m2 66cm2 = 660 066cm2",
+            "answer": "D. 660 066"
+        },
+        {
+            "id": "94",
+            "question": "1 giờ 15 phút = ... phút",
+            "choices": [
+                "A. 115 phút",
+                "B. 615 phút",
+                "C. 65 phút",
+                "D. 75 phút"
+            ],
+            "answer": "D. 75 phút"
+        },
+        {
+            "id": "95",
+            "question": "1 giờ 40 phút = ... ?",
+            "choices": [
+                "A. 1,40 giờ",
+                "B. 140 phút",
+                "C. 100 phút",
+                "D. $\\frac{5}{3}$ giờ"
+            ],
+            "answer": "C. 100 phút"
+        },
+        {
+            "id": "97",
+            "question": "1 km = ... m. Số thích hợp để điền vào chỗ chấm là:",
+            "choices": [
+                "A. 1 000",
+                "B. 100",
+                "C. 10",
+                "D. 1"
+            ],
+            "answer": "A. 1 000"
+        }
+    ]
+}
