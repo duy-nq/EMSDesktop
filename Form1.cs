@@ -53,6 +53,9 @@ namespace EMSDesktop
         {
             Response response = JsonConvert.DeserializeObject<Response>(responseBody);
 
+            Console.WriteLine("Choice: " + response.choice);
+            Console.WriteLine("Explanation: " + response.explanation + "end\n");
+
             TxtPrediction.Text = response.choice;
             memoEdit2.Text = response.explanation;
         }
@@ -99,6 +102,12 @@ namespace EMSDesktop
 
         private async void simpleButton1_Click(object sender, EventArgs e)
         {
+            if (memoEdit1.Text == "" || OptionA.Text == "" || OptionB.Text == "" || OptionC.Text == "")
+            {
+                MessageBox.Show("Please fill all fields", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+            
             SplashScreenManager.ShowForm(this, typeof(WaitForm1), true, true, false);
 
             try
