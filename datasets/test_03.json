@@ -1,0 +1,179 @@
+{
+    "__count__": 16,
+    "data": [
+        {
+            "id": "1000",
+            "question": "Diện tích hình chữ nhật khi biết chiều dài bằng 4cm và chiều rộng bằng 12cm là:",
+            "choices": [
+                "A. 48 cm2",
+                "B. 16 cm2",
+                "C. 32 cm2",
+                "D. 40 cm2"
+            ],
+            "answer": "A. 48 cm2"
+        },
+        {
+            "id": "1001",
+            "question": "Thể tích hình lập phương có cạnh bằng 2cm là:",
+            "choices": [
+                "A. 6 cm3",
+                "B. 8 cm3",
+                "C. 12 cm3",
+                "D. 20 cm3"
+            ],
+            "answer": "B. 8 cm3"
+        },
+        {
+            "id": "1002",
+            "question": "Diện tích của hình tam giác có chiều cao là 5cm và độ dài đáy 4cm là:",
+            "choices": [
+                "A. 15 cm2",
+                "B. 9 cm2",
+                "C. 20 cm2",
+                "D. 10 cm2"
+            ],
+            "answer": "D. 10 cm2"
+        },
+        {
+            "id": "1003",
+            "question": "Hình vuông có cạnh 10cm. Diện tích hình vuông là:",
+            "choices": [
+                "A. 36 cm2",
+                "B. 100 cm2",
+                "C. 81 cm2",
+                "D. 49 cm2"
+            ],
+            "answer": "C. 81 cm2"
+        },
+        {
+            "id": "1004",
+            "question": "Số 203 đọc là:",
+            "choices": [
+                "A. Hai không ba",
+                "B. Hai trăm linh ba",
+                "C. Hai trăm không ba"
+            ],
+            "answer": "B. Bốn trăm linh năm"
+        },
+        {
+            "id": "1005",
+            "question": "2014 dm3 = ...... m3 là:",
+            "choices": [
+                "A. 20,14",
+                "B. 2,014",
+                "C. 201,4"
+            ],
+            "answer": "B. 2,014"
+        },
+        {
+            "id": "1006",
+            "question": "4km 23m = ........km.",
+            "choices": [
+                "A. 4,23",
+                "B. 4,023",
+                "C. 423",
+                "D. 4023"
+            ],
+            "answer": "B. 4,023"
+        },
+        {
+            "id": "1007",
+            "question": "“1 giờ 32 phút = ........phút”. Số thích hợp điền vào chỗ chấm là:",
+            "choices": [
+                "A. 92",
+                "B. 132",
+                "C. 62",
+                "D. 32"
+            ],
+            "answer": "A. 92"
+        },
+        {
+            "id": "1008",
+            "question": "Cách viết khác của 23,55 là:",
+            "choices": [
+                "A. 23,055",
+                "B. 23,550",
+                "C. 23,505",
+                "D. 230,55"
+            ],
+            "answer": "B. 23,550"
+        },
+        {
+            "id": "1009",
+            "question": "Hai đơn vị bốn phần trăm là:",
+            "choices": [
+                "A. 2,40",
+                "B. 2400",
+                "C. 2,04",
+                "D. 2,004"
+            ],
+            "answer": "C. 2,04"
+        },
+        {
+            "id": "1010",
+            "question": "Ngày 29 tháng 8 là thứ Năm. Ngày 2 tháng 9 là thứ mấy?",
+            "choices": [
+                "A. Thứ Tư",
+                "B. Thứ Hai",
+                "C. Thứ Ba",
+                "D. Thứ Bảy"
+            ],
+            "answer": "B. Thứ Hai"
+        },
+        {
+            "id": "1011",
+            "question": "Lan nghĩ ra 1 số tự nhiên có 4 chữ số, biết rằng nếu xoá đi chữ số hàng trăm và hàng chục thì số đó giảm đi 71 lần. Vậy số đó là số nào trong các số dưới đây:",
+            "choices": [
+                "A. 1220",
+                "B. 1420",
+                "C. 1319",
+                "D. 1207"
+            ],
+            "answer": "D. 1207"
+        },
+        {
+            "id": "1012",
+            "question": "Chữ số 6 trong số 157,62 chỉ:",
+            "choices": [
+                "A. 6 phần mười",
+                "B. 6 phần trăm",
+                "C. 6 đơn vị",
+                "D. 6 chục"
+            ],
+            "answer": "A. 6 phần mười"
+        },
+        {
+            "id": "1013",
+            "question": "Số chia hết cho cả 2, 5 và 9 là:",
+            "choices": [
+                "A. 1080",
+                "B. 60",
+                "C. 315",
+                "D. 1116"
+            ],
+            "answer": "A. 1080"
+        },
+        {
+            "id": "1014",
+            "question": "Một ô tô đi với vận tốc 60 km/h, đi được trong 45 phút. Quãng đường ô tô đi được là:",
+            "choices": [
+                "A. 45 km",
+                "B. 2700 km",
+                "C. 90 km",
+                "D. 60 km"
+            ],
+            "answer": "A. 45 km"
+        },
+        {
+            "id": "1015",
+            "question": "Trong lớp 8A, có 2/5 số bạn được phân công vào đội múa còn 1/3 số bạn được phân công vào đội hát. Sau khi phân công thì trong lớp còn 12 bạn chưa được phân công. Hỏi số bạn được phân công vào đội hát là bao nhiêu bạn?",
+            "choices": [
+                "A. 12",
+                "B. 15",
+                "C. 18",
+                "D. 20"
+            ],
+            "answer": "B. 15"
+        }
+    ]
+}
