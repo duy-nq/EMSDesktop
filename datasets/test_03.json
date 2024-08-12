@@ -77,15 +77,15 @@
             "answer": "B. 4,023"
         },
         {
-            "id": "1007",
-            "question": "“1 giờ 32 phút = ........phút”. Số thích hợp điền vào chỗ chấm là:",
-            "choices": [
-                "A. 92",
-                "B. 132",
-                "C. 62",
-                "D. 32"
-            ],
-            "answer": "A. 92"
+           "id": "1007",
+           "question": "Một người đi xe đạp được 40 km trong 2 giờ 30 phút. Tính vận tốc đạp xe của người đó.",
+           "choices": [
+              "A. 25 km/giờ",
+              "B. 16 km/giờ",
+              "C. 30 km/giờ",
+              "D. 20 km/giờ"
+           ],
+           "answer": "B. 16 km/giờ"
         },
         {
             "id": "1008",
@@ -111,9 +111,9 @@
         },
         {
             "id": "1010",
-            "question": "Ngày 29 tháng 8 là thứ Năm. Ngày 2 tháng 9 là thứ mấy?",
+            "question": "Nếu ngày hôm nay là thứ Năm thì ngày mai là thứ mấy?",
             "choices": [
-                "A. Thứ Tư",
+                "A. Thứ Sáu",
                 "B. Thứ Hai",
                 "C. Thứ Ba",
                 "D. Thứ Bảy"
@@ -144,14 +144,14 @@
         },
         {
             "id": "1013",
-            "question": "Số chia hết cho cả 2, 5 và 9 là:",
+            "question": "Số chia hết cho 9 là:",
             "choices": [
-                "A. 1080",
-                "B. 60",
-                "C. 315",
-                "D. 1116"
+                "A. 48",
+                "B. 71",
+                "C. 36",
+                "D. 91"
             ],
-            "answer": "A. 1080"
+            "answer": "C. 36"
         },
         {
             "id": "1014",
